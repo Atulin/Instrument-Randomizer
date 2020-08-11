@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Instrument randomizer</title>
+
+    <link rel="stylesheet" href="dist/css/style.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+</head>
+<body>
+
+<main id="app">
+
+    <h1>Instrument randomizer</h1>
+
+    <div id="random" class="instruments">
+        <div v-for="instr in randomized" class="instrument">
+            <h2 class="name">{{instr.name}}</h2>
+            <p class="category">{{instr.classification}}</p>
+            <a :href="'https://en.wikipedia.org'+instr.link"
+               class="link"
+               target="_blank"
+               rel="noopener noreferrer nofollow">
+                Wikipedia
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path d="M0 0h24v24H0V0z" fill="none"/>
+                    <path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/>
+                </svg>
+            </a>
+        </div>
+    </div>
+
+    <div id="controls">
+        <label for="amount">Amount</label>
+        <input type="number" min="1" name="amount" id="amount" v-model="amount">
+        <button id="randomize" v-on:click="randomize">Randomize!</button>
+    </div>
+
+</main>
+
+<script src="dist/js/main.min.js"></script>
+
+</body>
+</html>

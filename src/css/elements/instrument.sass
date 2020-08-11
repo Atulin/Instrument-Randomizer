@@ -1,0 +1,38 @@
+.instruments
+  display: grid
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr))
+  grid-gap: 1rem
+  width: 80vw
+
+.instrument
+  display: flex
+  flex-direction: column
+  background-color: rgba(233, 225, 212, .15)
+  padding: 1rem
+  transition: background-color 150ms ease-in-out
+  &:hover
+    background-color: rgba(248, 243, 230, 0.25)
+
+  & .name
+    padding: 0
+    margin: 0
+
+  & .category
+    font-style: italic
+
+  & .link
+    color: var(--foreground)
+    margin-top: auto
+    transition: color 100ms ease-in-out
+    &:hover
+      color: var(--accent)
+      & svg
+        fill: var(--accent)
+
+    & svg
+      display: inline
+      fill: var(--foreground)
+      width: 1rem
+      height: 1rem
+      transition: fill 100ms ease-in-out
+

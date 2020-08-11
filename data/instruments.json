@@ -1,0 +1,4802 @@
+[
+  {
+    "name": "Afoxé",
+    "link": "/wiki/Afox%C3%A9",
+    "classification": "idiophones",
+    "origin": "Edo (Nigeria), Brazil"
+  },
+  {
+    "name": "Agogô",
+    "link": "/wiki/Agog%C3%B4",
+    "classification": "idiophones",
+    "origin": "Yoruba"
+  },
+  {
+    "name": "Agung",
+    "link": "/wiki/Agung",
+    "classification": "idiophones",
+    "origin": "Indonesia, Malaysia and Philippines"
+  },
+  {
+    "name": "Angklung",
+    "link": "/wiki/Angklung",
+    "classification": "idiophones",
+    "origin": "Indonesia"
+  },
+  {
+    "name": "Babendil",
+    "link": "/wiki/Babendil",
+    "classification": "idiophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Bak",
+    "link": "/wiki/Bak_(instrument)",
+    "classification": "idiophones",
+    "origin": "Korea"
+  },
+  {
+    "name": "Bamileke",
+    "link": "/wiki/Bamileke",
+    "classification": "idiophones",
+    "origin": "Africa,[1] Asia[2]"
+  },
+  {
+    "name": "log drum",
+    "link": "/wiki/Log_drum",
+    "classification": "idiophones",
+    "origin": "Africa,[1] Asia[2]"
+  },
+  {
+    "name": "Balafon",
+    "link": "/wiki/Balafon",
+    "classification": "idiophones",
+    "origin": "Africa, Burkina Faso, Chad, Gambia, Guinea, Mali, Senegal"
+  },
+  {
+    "name": "Batá drum",
+    "link": "/wiki/Bat%C3%A1_drum",
+    "classification": "idiophones",
+    "origin": "Cuba, Nigeria, Yoruba"
+  },
+  {
+    "name": "Cabasa",
+    "link": "/wiki/Cabasa",
+    "classification": "idiophones",
+    "origin": ""
+  },
+  {
+    "name": "Cajón",
+    "link": "/wiki/Caj%C3%B3n",
+    "classification": "idiophones",
+    "origin": "Peru"
+  },
+  {
+    "name": "Carillon",
+    "link": "/wiki/Carillon",
+    "classification": "idiophones",
+    "origin": "Belgium, Switzerland"
+  },
+  {
+    "name": "Castanets",
+    "link": "/wiki/Castanets",
+    "classification": "idiophones",
+    "origin": "Spain"
+  },
+  {
+    "name": "Caxirola",
+    "link": "/wiki/Caxirola",
+    "classification": "idiophones",
+    "origin": "Brazil"
+  },
+  {
+    "name": "Caxixi",
+    "link": "/wiki/Caxixi",
+    "classification": "idiophones",
+    "origin": "West Africa, Brazil"
+  },
+  {
+    "name": "Chácaras",
+    "link": "/wiki/Ch%C3%A1caras",
+    "classification": "idiophones",
+    "origin": "Canary Islands"
+  },
+  {
+    "name": "Clapstick",
+    "link": "/wiki/Clapstick",
+    "classification": "idiophones",
+    "origin": "Australia"
+  },
+  {
+    "name": "Claves",
+    "link": "/wiki/Claves",
+    "classification": "idiophones",
+    "origin": "Australia"
+  },
+  {
+    "name": "Cowbell",
+    "link": "/wiki/Cowbell_(instrument)",
+    "classification": "idiophones",
+    "origin": "Switzerland"
+  },
+  {
+    "name": "Crotales",
+    "link": "/wiki/Crotales",
+    "classification": "idiophones",
+    "origin": ""
+  },
+  {
+    "name": "Cymbal",
+    "link": "/wiki/Cymbal",
+    "classification": "idiophones",
+    "origin": "Romania"
+  },
+  {
+    "name": "Ferrinho",
+    "link": "/wiki/Ferrinho",
+    "classification": "idiophones",
+    "origin": "Cape Verde"
+  },
+  {
+    "name": "Flexatone",
+    "link": "/wiki/Flexatone",
+    "classification": "idiophones",
+    "origin": ""
+  },
+  {
+    "name": "Octa-Vibraphone",
+    "link": "/wiki/Octa-Vibraphone",
+    "classification": "idiophones",
+    "origin": "United States"
+  },
+  {
+    "name": "Gandingan",
+    "link": "/wiki/Gandingan",
+    "classification": "idiophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Ghatam",
+    "link": "/wiki/Ghatam",
+    "classification": "idiophones",
+    "origin": "China"
+  },
+  {
+    "name": "Glockenspiel",
+    "link": "/wiki/Glockenspiel",
+    "classification": "idiophones",
+    "origin": "France/Germany"
+  },
+  {
+    "name": "Gong",
+    "link": "/wiki/Gong",
+    "classification": "idiophones",
+    "origin": "Brunei, China, Indonesia, Japan, Korea, Malaysia, Myanmar, Tibet"
+  },
+  {
+    "name": "Güiro",
+    "link": "/wiki/G%C3%BCiro",
+    "classification": "idiophones",
+    "origin": "Cuba, Panama"
+  },
+  {
+    "name": "Handpan",
+    "link": "/wiki/Handpan",
+    "classification": "idiophones",
+    "origin": ""
+  },
+  {
+    "name": "Hang",
+    "link": "/wiki/Hang_(instrument)",
+    "classification": "idiophones",
+    "origin": ""
+  },
+  {
+    "name": "Kayamb",
+    "link": "/wiki/Kayamb",
+    "classification": "idiophones",
+    "origin": "China"
+  },
+  {
+    "name": "Kemanak",
+    "link": "/wiki/Kemanak",
+    "classification": "idiophones",
+    "origin": "Indonesia"
+  },
+  {
+    "name": "Khartal",
+    "link": "/wiki/Khartal",
+    "classification": "idiophones",
+    "origin": "Mauritius, Réunion"
+  },
+  {
+    "name": "Kouxian",
+    "link": "/wiki/Kouxian",
+    "classification": "idiophones",
+    "origin": "China"
+  },
+  {
+    "name": "Kulintang",
+    "link": "/wiki/Kulintang",
+    "classification": "idiophones",
+    "origin": "Brunei, Indonesia, Malaysia, Philippines"
+  },
+  {
+    "name": "Maraca",
+    "link": "/wiki/Maraca",
+    "classification": "idiophones",
+    "origin": "Venezuela"
+  },
+  {
+    "name": "Marimba",
+    "link": "/wiki/Marimba",
+    "classification": "idiophones",
+    "origin": "Africa, Guatemala, Mexico, Honduras, Nicaragua, & Costa Rica"
+  },
+  {
+    "name": "Mbira",
+    "link": "/wiki/Mbira",
+    "classification": "idiophones",
+    "origin": "Africa, Equatorial Guinea, Zimbabwe"
+  },
+  {
+    "name": "Pate",
+    "link": "/wiki/Pate_(instrument)",
+    "classification": "idiophones",
+    "origin": "Polynesia"
+  },
+  {
+    "name": "Shekere",
+    "link": "/wiki/Shekere",
+    "classification": "idiophones",
+    "origin": "Brazil, Burkina Faso, Cuba, Gambia, Guinea, Guinea-Bissau, Ivory Coast, Mali, Nigeria, Senegal"
+  },
+  {
+    "name": "Slit drum",
+    "link": "/wiki/Slit_drum",
+    "classification": "idiophones",
+    "origin": ""
+  },
+  {
+    "name": "Spoon",
+    "link": "/wiki/Spoon_(musical_instrument)",
+    "classification": "idiophones",
+    "origin": "Greece, Russia, Turkey"
+  },
+  {
+    "name": "Steelpan",
+    "link": "/wiki/Steelpan",
+    "classification": "idiophones",
+    "origin": "Trinidad & Tobago"
+  },
+  {
+    "name": "Tambourine",
+    "link": "/wiki/Tambourine",
+    "classification": "idiophones",
+    "origin": "Belarus, Bosnia and Herzegovina, Czech, Greece, Hungary, Iran, North Macedonia, Pakistan, Poland, Portugal, Russia, Slovenia, Tajikistan, Turkey, Ukraine, United Arab Emirates"
+  },
+  {
+    "name": "Teponaztli",
+    "link": "/wiki/Teponaztli",
+    "classification": "idiophones",
+    "origin": "El Salvador, Guatemala, Mexico"
+  },
+  {
+    "name": "Triangle",
+    "link": "/wiki/Triangle_(musical_instrument)",
+    "classification": "idiophones",
+    "origin": "Cajuns"
+  },
+  {
+    "name": "Txalaparta",
+    "link": "/wiki/Txalaparta",
+    "classification": "idiophones",
+    "origin": "Basque"
+  },
+  {
+    "name": "Vibraphone",
+    "link": "/wiki/Vibraphone",
+    "classification": "idiophones",
+    "origin": ""
+  },
+  {
+    "name": "Vibraslap",
+    "link": "/wiki/Vibraslap",
+    "classification": "idiophones",
+    "origin": "United States"
+  },
+  {
+    "name": "Washboard",
+    "link": "/wiki/Washboard_(musical_instrument)",
+    "classification": "idiophones",
+    "origin": "Cajuns, United States"
+  },
+  {
+    "name": "Wood block",
+    "link": "/wiki/Woodblock_(instrument)",
+    "classification": "idiophones",
+    "origin": ""
+  },
+  {
+    "name": "Wooden fish",
+    "link": "/wiki/Wooden_fish",
+    "classification": "idiophones",
+    "origin": "China"
+  },
+  {
+    "name": "Xylophone",
+    "link": "/wiki/Xylophone",
+    "classification": "idiophones",
+    "origin": "Ghana, Uganda, Zambia"
+  },
+  {
+    "name": "Zill",
+    "link": "/wiki/Zill",
+    "classification": "idiophones",
+    "origin": "Asia, Saudi Arabia, Turkey"
+  },
+  {
+    "name": "Agida",
+    "link": "/wiki/Agida",
+    "classification": "membranophones",
+    "origin": "Suriname"
+  },
+  {
+    "name": "Alfaia",
+    "link": "/wiki/Alfaia",
+    "classification": "membranophones",
+    "origin": "Brazil"
+  },
+  {
+    "name": "Apinti",
+    "link": "/wiki/Apinti",
+    "classification": "membranophones",
+    "origin": "Suriname"
+  },
+  {
+    "name": "Arobapá",
+    "link": "/wiki/Arobap%C3%A1",
+    "classification": "membranophones",
+    "origin": "Cuba"
+  },
+  {
+    "name": "Ashiko",
+    "link": "/wiki/Ashiko",
+    "classification": "membranophones",
+    "origin": "Yoruba"
+  },
+  {
+    "name": "Atabaque",
+    "link": "/wiki/Atabaque",
+    "classification": "membranophones",
+    "origin": "Brazil"
+  },
+  {
+    "name": "Baboula",
+    "link": "/wiki/Baboula",
+    "classification": "membranophones",
+    "origin": "Grenada"
+  },
+  {
+    "name": "Balaban",
+    "link": "/w/index.php?title=Balaban_(drum)&action=edit&redlink=1",
+    "classification": "membranophones",
+    "origin": "Montserrat"
+  },
+  {
+    "name": "Balsié",
+    "link": "/wiki/Balsi%C3%A9",
+    "classification": "membranophones",
+    "origin": "Dominican Republic"
+  },
+  {
+    "name": "Bamboula",
+    "link": "/wiki/Bamboula",
+    "classification": "membranophones",
+    "origin": "Haiti"
+  },
+  {
+    "name": "Bara",
+    "link": "/wiki/Bara_(drum)",
+    "classification": "membranophones",
+    "origin": "Burkina Faso, Ivory Coast, Mali"
+  },
+  {
+    "name": "Bass drum",
+    "link": "/wiki/Bass_drum",
+    "classification": "membranophones",
+    "origin": ""
+  },
+  {
+    "name": "Bedug",
+    "link": "/wiki/Bedug",
+    "classification": "membranophones",
+    "origin": "Indonesia"
+  },
+  {
+    "name": "Bodhrán",
+    "link": "/wiki/Bodhr%C3%A1n",
+    "classification": "membranophones",
+    "origin": "Ireland, Scotland"
+  },
+  {
+    "name": "Bongo drums",
+    "link": "/wiki/Bongo_drums",
+    "classification": "membranophones",
+    "origin": "Cuba"
+  },
+  {
+    "name": "Boobam",
+    "link": "/wiki/Boobam",
+    "classification": "membranophones",
+    "origin": "US"
+  },
+  {
+    "name": "Candombe",
+    "link": "/wiki/Candombe_drums",
+    "classification": "membranophones",
+    "origin": "Uruguay"
+  },
+  {
+    "name": "Chenda",
+    "link": "/wiki/Chenda",
+    "classification": "membranophones",
+    "origin": "India"
+  },
+  {
+    "name": "Conga",
+    "link": "/wiki/Conga",
+    "classification": "membranophones",
+    "origin": "Caribbean"
+  },
+  {
+    "name": "Cuíca",
+    "link": "/wiki/Cu%C3%ADca",
+    "classification": "membranophones",
+    "origin": "Brazil"
+  },
+  {
+    "name": "Culoepuya",
+    "link": "/wiki/Culoepuya",
+    "classification": "membranophones",
+    "origin": "Venezuela"
+  },
+  {
+    "name": "Dabakan",
+    "link": "/wiki/Dabakan",
+    "classification": "membranophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Daf",
+    "link": "/wiki/Daf",
+    "classification": "membranophones",
+    "origin": "Iran"
+  },
+  {
+    "name": "Damaru",
+    "link": "/wiki/Damaru",
+    "classification": "membranophones",
+    "origin": "India, Nepal, Tibet"
+  },
+  {
+    "name": "Davul",
+    "link": "/wiki/Davul",
+    "classification": "membranophones",
+    "origin": "Turkey"
+  },
+  {
+    "name": "Dohol",
+    "link": "/wiki/Dohol",
+    "classification": "membranophones",
+    "origin": "Turkey"
+  },
+  {
+    "name": "Dayereh",
+    "link": "/wiki/Dayereh",
+    "classification": "membranophones",
+    "origin": "Azerbaijan, Bulgaria, Iran, Kazakhstan, Kyrgyzstan, North Macedonia, Tajikistan, Turkmenistan, Uzbekistan"
+  },
+  {
+    "name": "Den-den daiko",
+    "link": "/wiki/Den-den_daiko",
+    "classification": "membranophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Dhak",
+    "link": "/wiki/Dhak_(instrument)",
+    "classification": "membranophones",
+    "origin": "Bangladesh, India"
+  },
+  {
+    "name": "Dhimay",
+    "link": "/wiki/Dhimay",
+    "classification": "membranophones",
+    "origin": "Nepal"
+  },
+  {
+    "name": "Dhol",
+    "link": "/wiki/Dhol",
+    "classification": "membranophones",
+    "origin": "Asia, India, Pakistan"
+  },
+  {
+    "name": "Dholak",
+    "link": "/wiki/Dholak",
+    "classification": "membranophones",
+    "origin": "Asia, Bangladesh, India, Nepal, Pakistan, Sri Lanka"
+  },
+  {
+    "name": "Djembe",
+    "link": "/wiki/Djembe",
+    "classification": "membranophones",
+    "origin": "West Africa, Burkina Faso, Gambia, Guinea, Guinea-Bissau, Mali, Senegal"
+  },
+  {
+    "name": "Dollu",
+    "link": "/wiki/Dollu",
+    "classification": "membranophones",
+    "origin": "India"
+  },
+  {
+    "name": "Drum",
+    "link": "/wiki/Drum",
+    "classification": "membranophones",
+    "origin": ""
+  },
+  {
+    "name": "Drum kit",
+    "link": "/wiki/Drum_kit",
+    "classification": "idiophones and membranophones",
+    "origin": "North American"
+  },
+  {
+    "name": "Dunun",
+    "link": "/wiki/Dunun",
+    "classification": "membranophones",
+    "origin": "West Africa, Burkina Faso, Ivory Coast, Gambia, Guinea, Mali, Senegal"
+  },
+  {
+    "name": "Gran Cassa",
+    "link": "/wiki/Bass_Drum",
+    "classification": "membranophones",
+    "origin": "Italy"
+  },
+  {
+    "name": "Goblet drum",
+    "link": "/wiki/Goblet_drum",
+    "classification": "membranophones",
+    "origin": "Ancient"
+  },
+  {
+    "name": "Gong bass drum",
+    "link": "/wiki/Gong_bass_drum",
+    "classification": "membranophones",
+    "origin": ""
+  },
+  {
+    "name": "Hira-daiko",
+    "link": "/w/index.php?title=Hira-daiko&action=edit&redlink=1",
+    "classification": "membranophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Idakka",
+    "link": "/wiki/Idakka",
+    "classification": "membranophones",
+    "origin": "Southern India"
+  },
+  {
+    "name": "Ilimba drum",
+    "link": "/wiki/Ilimba_drum",
+    "classification": "membranophones",
+    "origin": "Zimbabwe"
+  },
+  {
+    "name": "Janggu",
+    "link": "/wiki/Janggu",
+    "classification": "membranophones",
+    "origin": "Korea"
+  },
+  {
+    "name": "Jew's harp",
+    "link": "/wiki/Jew%27s_harp",
+    "classification": "membranophones",
+    "origin": "China"
+  },
+  {
+    "name": "Junjung",
+    "link": "/wiki/Junjung",
+    "classification": "membranophones",
+    "origin": "Gambia, Senegal"
+  },
+  {
+    "name": "Kakko",
+    "link": "/wiki/Kakko_(instrument)",
+    "classification": "membranophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Kanjira",
+    "link": "/wiki/Kanjira",
+    "classification": "membranophones",
+    "origin": "India"
+  },
+  {
+    "name": "Kebero",
+    "link": "/wiki/Kebero",
+    "classification": "membranophones",
+    "origin": "Ethiopia"
+  },
+  {
+    "name": "Kendang",
+    "link": "/wiki/Kendang",
+    "classification": "membranophones",
+    "origin": "Brunei, Malaysia and Philippines"
+  },
+  {
+    "name": "Khol",
+    "link": "/wiki/Khol",
+    "classification": "membranophones",
+    "origin": "India"
+  },
+  {
+    "name": "Krakebs",
+    "link": "/wiki/Krakebs",
+    "classification": "membranophones",
+    "origin": "Algeria, Berbers, Morocco, Saudi Arabia, Tunisia"
+  },
+  {
+    "name": "Lambeg drum",
+    "link": "/wiki/Lambeg_drum",
+    "classification": "membranophones",
+    "origin": "Ireland"
+  },
+  {
+    "name": "Madhalam",
+    "link": "/wiki/Madhalam",
+    "classification": "membranophones",
+    "origin": "India"
+  },
+  {
+    "name": "Madal",
+    "link": "/wiki/Madal",
+    "classification": "membranophones",
+    "origin": "India, Nepal"
+  },
+  {
+    "name": "Maddale",
+    "link": "/wiki/Maddale",
+    "classification": "membranophones",
+    "origin": "India"
+  },
+  {
+    "name": "Maktoum",
+    "link": "/wiki/Maktoum",
+    "classification": "membranophones",
+    "origin": "Afro-Arab"
+  },
+  {
+    "name": "Maram",
+    "link": "/wiki/Maram_(drum)",
+    "classification": "membranophones",
+    "origin": "India"
+  },
+  {
+    "name": "Mirwas",
+    "link": "/wiki/Mirwas",
+    "classification": "membranophones",
+    "origin": "Bahrain, Brunei, Indonesia, Oman, Saudi Arabia, Yemen"
+  },
+  {
+    "name": "Mridangam",
+    "link": "/wiki/Mridangam",
+    "classification": "membranophones",
+    "origin": "India"
+  },
+  {
+    "name": "Nagara",
+    "link": "/wiki/Nagara_(drum)",
+    "classification": "membranophones",
+    "origin": "Asia, Azerbaijan, Dagestan, Iran, Turkey, Turkmenistan"
+  },
+  {
+    "name": "Naqareh",
+    "link": "/wiki/Naqareh",
+    "classification": "membranophones",
+    "origin": "Azerbaijan, India, Saudi Arabia, Turkey, Turkmenistan, Uzbekistan"
+  },
+  {
+    "name": "O-daiko",
+    "link": "/wiki/O-daiko",
+    "classification": "membranophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Okedo-daiko",
+    "link": "/w/index.php?title=Okedo-daiko&action=edit&redlink=1",
+    "classification": "membranophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Octaban",
+    "link": "/wiki/Octaban",
+    "classification": "membranophones",
+    "origin": "US"
+  },
+  {
+    "name": "Padayani thappu",
+    "link": "/wiki/Padayani_thappu",
+    "classification": "membranophones",
+    "origin": "India"
+  },
+  {
+    "name": "Pakhavaj",
+    "link": "/wiki/Pakhavaj",
+    "classification": "membranophones",
+    "origin": "India"
+  },
+  {
+    "name": "Pandero",
+    "link": "/wiki/Pandero",
+    "classification": "membranophones",
+    "origin": "Dominican"
+  },
+  {
+    "name": "Parai",
+    "link": "/wiki/Parai",
+    "classification": "membranophones",
+    "origin": "India"
+  },
+  {
+    "name": "Qilaut",
+    "link": "/wiki/Qilaut",
+    "classification": "membranophones",
+    "origin": "North American, Nunavut"
+  },
+  {
+    "name": "Rebana",
+    "link": "/wiki/Rebana",
+    "classification": "membranophones",
+    "origin": "Brunei, Indonesia, Malaysia"
+  },
+  {
+    "name": "Sabar",
+    "link": "/wiki/Sabar",
+    "classification": "membranophones",
+    "origin": "Gambia, Senegal"
+  },
+  {
+    "name": "Sambal",
+    "link": "/wiki/Sambal_(drum)",
+    "classification": "membranophones",
+    "origin": "India"
+  },
+  {
+    "name": "Samphor",
+    "link": "/wiki/Samphor",
+    "classification": "membranophones",
+    "origin": "Cambodia"
+  },
+  {
+    "name": "Shime-daiko",
+    "link": "/wiki/Shime-daiko",
+    "classification": "membranophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Snare drum",
+    "link": "/wiki/Snare_drum",
+    "classification": "membranophones",
+    "origin": ""
+  },
+  {
+    "name": "Surdo",
+    "link": "/wiki/Surdo",
+    "classification": "membranophones",
+    "origin": "Brazil"
+  },
+  {
+    "name": "Tabla",
+    "link": "/wiki/Tabla",
+    "classification": "membranophones",
+    "origin": "Afghanistan, Bangladesh, India, Nepal, Pakistan, Sri Lanka"
+  },
+  {
+    "name": "Taiko",
+    "link": "/wiki/Taiko",
+    "classification": "membranophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Talking drum",
+    "link": "/wiki/Talking_drum",
+    "classification": "membranophones",
+    "origin": "West Africa, Ghana, Ivory Coast, Senegal, Yoruba"
+  },
+  {
+    "name": "Tsukeshime-daiko",
+    "link": "/w/index.php?title=Tsukeshime-daiko&action=edit&redlink=1",
+    "classification": "membranophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Tambor huacana",
+    "link": "/w/index.php?title=Tambor_huacana&action=edit&redlink=1",
+    "classification": "idiophones or membranophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Tambori",
+    "link": "/wiki/Tambori",
+    "classification": "membranophones",
+    "origin": "Andorra, Catalonia, Spain"
+  },
+  {
+    "name": "Tamborim",
+    "link": "/wiki/Tamborim",
+    "classification": "membranophones",
+    "origin": "Brazil"
+  },
+  {
+    "name": "Tamborita calentana",
+    "link": "/wiki/Tamborita_calentana",
+    "classification": "membranophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Tan-tan",
+    "link": "/wiki/Tan-tan",
+    "classification": "membranophones",
+    "origin": "Brazil"
+  },
+  {
+    "name": "Taphon",
+    "link": "/wiki/Taphon",
+    "classification": "membranophones",
+    "origin": "Thailand"
+  },
+  {
+    "name": "Tar",
+    "link": "/wiki/Tar_(drum)",
+    "classification": "membranophones",
+    "origin": "Saudi Arabia"
+  },
+  {
+    "name": "Tbilat",
+    "link": "/wiki/Tbilat",
+    "classification": "membranophones",
+    "origin": "Morocco, Saudi Arabia"
+  },
+  {
+    "name": "Thavil",
+    "link": "/wiki/Thavil",
+    "classification": "membranophones",
+    "origin": "India"
+  },
+  {
+    "name": "Timbales",
+    "link": "/wiki/Timbales",
+    "classification": "membranophones",
+    "origin": "Cuba"
+  },
+  {
+    "name": "Timpani",
+    "link": "/wiki/Timpani",
+    "classification": "membranophones",
+    "origin": ""
+  },
+  {
+    "name": "Tom-tom",
+    "link": "/wiki/Tom-tom_drum",
+    "classification": "membranophones",
+    "origin": ""
+  },
+  {
+    "name": "Tombak",
+    "link": "/wiki/Tombak",
+    "classification": "membranophones",
+    "origin": "Iran"
+  },
+  {
+    "name": "Tsuzumi",
+    "link": "/wiki/Tsuzumi",
+    "classification": "membranophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Tsuri-daiko",
+    "link": "/wiki/Tsuri-daiko",
+    "classification": "membranophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Repique",
+    "link": "/wiki/Repique",
+    "classification": "membranophones",
+    "origin": "Brazil"
+  },
+  {
+    "name": "Uchiwa-daiko",
+    "link": "/w/index.php?title=Uchiwa-daiko&action=edit&redlink=1",
+    "classification": "membranophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Accordina (instrument)",
+    "link": "/w/index.php?title=Accordina_(instrument)&action=edit&redlink=1",
+    "classification": "aerophones",
+    "origin": "Italy"
+  },
+  {
+    "name": "Accordion",
+    "link": "/wiki/Accordion",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Button accordion",
+    "link": "/wiki/Button_accordion",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Cajun accordion",
+    "link": "/wiki/Cajun_accordion",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Chromatic button accordion",
+    "link": "/wiki/Chromatic_button_accordion",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Diatonic button accordion",
+    "link": "/wiki/Diatonic_button_accordion",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Free bass accordion",
+    "link": "/wiki/Free_bass_accordion",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Piano accordion",
+    "link": "/wiki/Piano_accordion",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Schrammel accordion",
+    "link": "/wiki/Schrammel_accordion",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Steirische Harmonika",
+    "link": "/wiki/Steirische_Harmonika",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Accordola",
+    "link": "/w/index.php?title=Accordola&action=edit&redlink=1",
+    "classification": "aerophones",
+    "origin": "United States of America"
+  },
+  {
+    "name": "Air horn",
+    "link": "/wiki/Air_horn",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Alboka",
+    "link": "/wiki/Alboka",
+    "classification": "aerophones",
+    "origin": "Basque Country"
+  },
+  {
+    "name": "Algaita",
+    "link": "/wiki/Algaita",
+    "classification": "aerophones",
+    "origin": "Niger"
+  },
+  {
+    "name": "Alphorn",
+    "link": "/wiki/Alphorn",
+    "classification": "aerophones",
+    "origin": "Switzerland"
+  },
+  {
+    "name": "Alto horn",
+    "link": "/wiki/Alto_horn",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Arghul",
+    "link": "/wiki/Arghul",
+    "classification": "aerophones",
+    "origin": "Egypt, Syria, Turkey"
+  },
+  {
+    "name": "Atenteben",
+    "link": "/wiki/Atenteben",
+    "classification": "aerophones",
+    "origin": "Ghana"
+  },
+  {
+    "name": "Aulos",
+    "link": "/wiki/Aulos",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Bagpipe",
+    "link": "/wiki/Bagpipe",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Balaban",
+    "link": "/wiki/Balaban_(instrument)",
+    "classification": "aerophones",
+    "origin": "Azerbaijan, Iran"
+  },
+  {
+    "name": "Bandoneón",
+    "link": "/wiki/Bandone%C3%B3n",
+    "classification": "aerophones",
+    "origin": "Latin America"
+  },
+  {
+    "name": "Bansuri",
+    "link": "/wiki/Bansuri",
+    "classification": "aerophones",
+    "origin": "India"
+  },
+  {
+    "name": "Baritone horn",
+    "link": "/wiki/Baritone_horn",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Baritone voice",
+    "link": "/wiki/Baritone",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Bassoon",
+    "link": "/wiki/Bassoon",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Contrabassoon/double bassoon",
+    "link": "/wiki/Contrabassoon",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Tenoroon",
+    "link": "/wiki/Tenoroon",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Bawu",
+    "link": "/wiki/Bawu",
+    "classification": "aerophones",
+    "origin": "China"
+  },
+  {
+    "name": "Bayan",
+    "link": "/wiki/Bayan_(accordion)",
+    "classification": "aerophones",
+    "origin": "Russia"
+  },
+  {
+    "name": "Bazooka",
+    "link": "/wiki/Bazooka_(instrument)",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Beatboxing",
+    "link": "/wiki/Beatboxing",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Bifora",
+    "link": "/wiki/Bifora",
+    "classification": "aerophones",
+    "origin": "Italy (Sicily)"
+  },
+  {
+    "name": "Birbynė",
+    "link": "/wiki/Birbyn%C4%97",
+    "classification": "aerophones",
+    "origin": "Lithuania"
+  },
+  {
+    "name": "Blul",
+    "link": "/w/index.php?title=Blul&action=edit&redlink=1",
+    "classification": "aerophones",
+    "origin": "Greece"
+  },
+  {
+    "name": "Bombarde",
+    "link": "/wiki/Bombard_(music)",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Buccina",
+    "link": "/wiki/Buccina",
+    "classification": "aerophones",
+    "origin": "Italy (Ancient Rome)"
+  },
+  {
+    "name": "Bugle",
+    "link": "/wiki/Bugle_(instrument)",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Bullroarer",
+    "link": "/wiki/Bullroarer_(music)",
+    "classification": "aerophones",
+    "origin": "Ancient civilizations"
+  },
+  {
+    "name": "Calliope",
+    "link": "/wiki/Calliope_(music)",
+    "classification": "aerophones",
+    "origin": "Western Europe/North America"
+  },
+  {
+    "name": "Castrato",
+    "link": "/wiki/Castrato",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Chalumeau",
+    "link": "/wiki/Chalumeau",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Cimbasso",
+    "link": "/wiki/Cimbasso",
+    "classification": "aerophones",
+    "origin": "Italy"
+  },
+  {
+    "name": "Clarinets",
+    "link": "/wiki/Clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Alto clarinet",
+    "link": "/wiki/Alto_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Bass clarinet",
+    "link": "/wiki/Bass_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Basset clarinet",
+    "link": "/wiki/Basset_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Basset horn",
+    "link": "/wiki/Basset-horn",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Clarinette d'amour",
+    "link": "/wiki/Clarinette_d%27amour",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Contra-alto clarinet",
+    "link": "/wiki/Contra-alto_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Contrabass clarinet",
+    "link": "/wiki/Contrabass_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Piccolo clarinet",
+    "link": "/wiki/Piccolo_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "A♭ clarinet",
+    "link": "/wiki/A%E2%99%AD_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Sopranino clarinet",
+    "link": "/wiki/Sopranino_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "E♭ clarinet",
+    "link": "/wiki/E%E2%99%AD_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "D clarinet",
+    "link": "/wiki/D_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Soprano clarinet",
+    "link": "/wiki/Soprano_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "C clarinet",
+    "link": "/w/index.php?title=C_clarinet&action=edit&redlink=1",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "B♭ clarinet",
+    "link": "/wiki/B%E2%99%AD_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "A clarinet",
+    "link": "/wiki/A_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "G clarinet",
+    "link": "/wiki/G_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Octocontra-alto clarinet",
+    "link": "/wiki/Subcontrabass_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Octocontrabass clarinet",
+    "link": "/wiki/Subcontrabass_clarinet",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Clarytone",
+    "link": "/wiki/Clarytone",
+    "classification": "aerophones",
+    "origin": "South Africa"
+  },
+  {
+    "name": "Concertina",
+    "link": "/wiki/Concertina",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Chemnitzer concertina",
+    "link": "/wiki/Chemnitzer_concertina",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Conch",
+    "link": "/wiki/Conch_(instrument)",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Cornamuse",
+    "link": "/wiki/Cornamuse",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Cornet",
+    "link": "/wiki/Cornet",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Soprano cornet",
+    "link": "/wiki/Soprano_cornet",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Cornett",
+    "link": "/wiki/Cornett",
+    "classification": "aerophones",
+    "origin": "Northern Europe"
+  },
+  {
+    "name": "Cornu",
+    "link": "/wiki/Cornu_(horn)",
+    "classification": "aerophones",
+    "origin": "Italy (Ancient Rome)"
+  },
+  {
+    "name": "Corrugaphone",
+    "link": "/wiki/Whirly_tube",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Countertenor",
+    "link": "/wiki/Countertenor",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Cromorne",
+    "link": "/wiki/Cromorne",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Crumhorn",
+    "link": "/wiki/Crumhorn",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Danso",
+    "link": "/wiki/Danso",
+    "classification": "aerophones",
+    "origin": "Korea"
+  },
+  {
+    "name": "Death growl",
+    "link": "/wiki/Death_growl",
+    "classification": "aerophones",
+    "origin": "England"
+  },
+  {
+    "name": "Didgeridoo",
+    "link": "/wiki/Didgeridoo",
+    "classification": "aerophones",
+    "origin": "Australia"
+  },
+  {
+    "name": "Diple (or dvojnice)",
+    "link": "/wiki/Diple",
+    "classification": "aerophones",
+    "origin": "Croatia"
+  },
+  {
+    "name": "Dizi",
+    "link": "/wiki/Dizi_(instrument)",
+    "classification": "aerophones",
+    "origin": "China"
+  },
+  {
+    "name": "Double bell euphonium",
+    "link": "/wiki/Double_bell_euphonium",
+    "classification": "aerophones",
+    "origin": "United States of America"
+  },
+  {
+    "name": "Doulophone",
+    "link": "/w/index.php?title=Doulophone&action=edit&redlink=1",
+    "classification": "aerophones",
+    "origin": "US"
+  },
+  {
+    "name": "Duduk",
+    "link": "/wiki/Duduk",
+    "classification": "aerophones",
+    "origin": "Armenia"
+  },
+  {
+    "name": "Dulcian",
+    "link": "/wiki/Dulcian",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Dulzaina",
+    "link": "/wiki/Dulzaina",
+    "classification": "aerophones",
+    "origin": "Spain"
+  },
+  {
+    "name": "Dung-Dkar",
+    "link": "/wiki/Dung-Dkar",
+    "classification": "aerophones",
+    "origin": "Tibet"
+  },
+  {
+    "name": "Dzhamara",
+    "link": "/wiki/Kaval",
+    "classification": "aerophones",
+    "origin": "Greece"
+  },
+  {
+    "name": "English horn",
+    "link": "/wiki/English_horn",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Euphonium",
+    "link": "/wiki/Euphonium",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Falsetto",
+    "link": "/wiki/Falsetto",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Fife",
+    "link": "/wiki/Fife_(musical_instrument)",
+    "classification": "aerophones",
+    "origin": "Portugal, Switzerland"
+  },
+  {
+    "name": "Firebird (trumpet)",
+    "link": "/wiki/Firebird_(trumpet)",
+    "classification": "aerophones",
+    "origin": "Canada"
+  },
+  {
+    "name": "Fiscorn",
+    "link": "/wiki/Fiscorn",
+    "classification": "aerophones",
+    "origin": "Spain"
+  },
+  {
+    "name": "Flabiol",
+    "link": "/wiki/Flabiol",
+    "classification": "aerophones",
+    "origin": "Aragon, Balearic Islands, Spain"
+  },
+  {
+    "name": "Flageolet",
+    "link": "/wiki/Flageolet",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Flatt trumpet",
+    "link": "/wiki/Slide_trumpet",
+    "classification": "aerophones",
+    "origin": "England"
+  },
+  {
+    "name": "Flugelhorn",
+    "link": "/wiki/Flugelhorn",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Flumpet",
+    "link": "/wiki/Flumpet",
+    "classification": "aerophones",
+    "origin": "US"
+  },
+  {
+    "name": "Flutina",
+    "link": "/wiki/Flutina",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Flute",
+    "link": "/wiki/Flute",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Folgerphone",
+    "link": "/wiki/Folgerphone",
+    "classification": "aerophones",
+    "origin": "United States of America"
+  },
+  {
+    "name": "French horn",
+    "link": "/wiki/French_horn",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Fujara",
+    "link": "/wiki/Fujara",
+    "classification": "aerophones",
+    "origin": "Slovakia"
+  },
+  {
+    "name": "Gaida",
+    "link": "/wiki/Gaida",
+    "classification": "aerophones",
+    "origin": "Balkans, Southeast Europe"
+  },
+  {
+    "name": "Gaita gastoreña",
+    "link": "/wiki/Gaita_gastore%C3%B1a",
+    "classification": "aerophones",
+    "origin": "Andalusia"
+  },
+  {
+    "name": "Garmon",
+    "link": "/wiki/Garmon",
+    "classification": "aerophones",
+    "origin": "Russia, Tatarstan"
+  },
+  {
+    "name": "Gemshorn",
+    "link": "/wiki/Gemshorn",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Gralla",
+    "link": "/wiki/Dulzaina",
+    "classification": "aerophones",
+    "origin": "Spain"
+  },
+  {
+    "name": "Guan",
+    "link": "/wiki/Guan_(instrument)",
+    "classification": "aerophones",
+    "origin": "China"
+  },
+  {
+    "name": "Hano",
+    "link": "/wiki/Nose_flute",
+    "classification": "aerophones",
+    "origin": "Hawaii"
+  },
+  {
+    "name": "Harmoneon",
+    "link": "/w/index.php?title=Harmoneon&action=edit&redlink=1",
+    "classification": "aerophones",
+    "origin": "Hawaii"
+  },
+  {
+    "name": "Harmonica",
+    "link": "/wiki/Harmonica",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Chromatic harmonica",
+    "link": "/wiki/Chromatic_harmonica",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Diatonic harmonica",
+    "link": "/wiki/Blues_harp",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Tremolo harmonica",
+    "link": "/wiki/Tremolo_harmonica",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Harmonium",
+    "link": "/wiki/Pump_organ",
+    "classification": "aerophones",
+    "origin": "Denmark"
+  },
+  {
+    "name": "Heckelphone",
+    "link": "/wiki/Heckelphone",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Piccolo heckelphone",
+    "link": "/wiki/Piccolo_heckelphone",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Helicon",
+    "link": "/wiki/Helicon_(musical_instrument)",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Horagai",
+    "link": "/wiki/Horagai",
+    "classification": "aerophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Hotchiku",
+    "link": "/wiki/Hotchiku",
+    "classification": "aerophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Hulusi",
+    "link": "/wiki/Hulusi",
+    "classification": "aerophones",
+    "origin": "China"
+  },
+  {
+    "name": "Hun",
+    "link": "/wiki/Hun_(instrument)",
+    "classification": "aerophones",
+    "origin": "Korea"
+  },
+  {
+    "name": "Inci",
+    "link": "/w/index.php?title=Inci_%C3%96zdil&action=edit&redlink=1",
+    "classification": "aerophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Irish flute",
+    "link": "/wiki/Irish_flute",
+    "classification": "aerophones",
+    "origin": "Ireland"
+  },
+  {
+    "name": "Jug",
+    "link": "/wiki/Jug_(musical_instrument)",
+    "classification": "aerophones",
+    "origin": "North America"
+  },
+  {
+    "name": "Kagurabue",
+    "link": "/wiki/Kagurabue",
+    "classification": "aerophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Kalaleng",
+    "link": "/wiki/Kalaleng",
+    "classification": "aerophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Kaval",
+    "link": "/wiki/Kaval",
+    "classification": "aerophones",
+    "origin": "Bashkortostan, Turkey"
+  },
+  {
+    "name": "Kazoo",
+    "link": "/wiki/Kazoo",
+    "classification": "aerophones",
+    "origin": "US"
+  },
+  {
+    "name": "Kèn bầu",
+    "link": "/wiki/K%C3%A8n_b%E1%BA%A7u",
+    "classification": "aerophones",
+    "origin": "Vietnam"
+  },
+  {
+    "name": "Khene",
+    "link": "/wiki/Khene",
+    "classification": "aerophones",
+    "origin": "Laos"
+  },
+  {
+    "name": "Khloy",
+    "link": "/wiki/Khloy",
+    "classification": "aerophones",
+    "origin": "Cambodia"
+  },
+  {
+    "name": "Khlui",
+    "link": "/wiki/Khlui",
+    "classification": "aerophones",
+    "origin": "Thailand"
+  },
+  {
+    "name": "Komabue",
+    "link": "/wiki/Komabue",
+    "classification": "aerophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Koncovka",
+    "link": "/wiki/Koncovka",
+    "classification": "aerophones",
+    "origin": "Slovakia"
+  },
+  {
+    "name": "Kortholt",
+    "link": "/wiki/Kortholt",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Koudi",
+    "link": "/wiki/Koudi",
+    "classification": "aerophones",
+    "origin": "China"
+  },
+  {
+    "name": "Kuhlohorn",
+    "link": "/wiki/Kuhlohorn",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Launeddas",
+    "link": "/wiki/Launeddas",
+    "classification": "aerophones",
+    "origin": "Italy, Sardinia"
+  },
+  {
+    "name": "Livenka",
+    "link": "/wiki/Livenka_(music)",
+    "classification": "aerophones",
+    "origin": "Russia"
+  },
+  {
+    "name": "Lur",
+    "link": "/wiki/Lur",
+    "classification": "aerophones",
+    "origin": "Denmark, Norway"
+  },
+  {
+    "name": "Lusheng",
+    "link": "/wiki/Lusheng",
+    "classification": "aerophones",
+    "origin": "China"
+  },
+  {
+    "name": "Lituus",
+    "link": "/wiki/Medieval_lituus",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Mellophone",
+    "link": "/wiki/Mellophone",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Melodica",
+    "link": "/wiki/Melodica",
+    "classification": "aerophones",
+    "origin": "Italy"
+  },
+  {
+    "name": "Melodeon",
+    "link": "/wiki/Melodeon_(organ)",
+    "classification": "aerophones",
+    "origin": "US"
+  },
+  {
+    "name": "Mezzo-soprano",
+    "link": "/wiki/Mezzo-soprano",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Mijwiz",
+    "link": "/wiki/Mijwiz",
+    "classification": "aerophones",
+    "origin": "Saudi Arabia"
+  },
+  {
+    "name": "Mizmar",
+    "link": "/wiki/Mizmar_(instrument)",
+    "classification": "aerophones",
+    "origin": "Algeria, Saudi Arabia, Tunisia"
+  },
+  {
+    "name": "Mizwad",
+    "link": "/wiki/Mizwad",
+    "classification": "aerophones",
+    "origin": "Saudi Arabia"
+  },
+  {
+    "name": "Musette de cour",
+    "link": "/wiki/Musette_de_cour",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Nadaswaram",
+    "link": "/wiki/Nadaswaram",
+    "classification": "aerophones",
+    "origin": "South India"
+  },
+  {
+    "name": "Nagak",
+    "link": "/wiki/Nagak",
+    "classification": "aerophones",
+    "origin": "Korea"
+  },
+  {
+    "name": "Natural trumpet",
+    "link": "/wiki/Natural_trumpet",
+    "classification": "aerophones",
+    "origin": "Denmark, Norway"
+  },
+  {
+    "name": "Ney",
+    "link": "/wiki/Ney",
+    "classification": "aerophones",
+    "origin": "Iran"
+  },
+  {
+    "name": "Nguru",
+    "link": "/w/index.php?title=Nguru_(nose_flute)&action=edit&redlink=1",
+    "classification": "aerophones",
+    "origin": "New Zealand"
+  },
+  {
+    "name": "Nohkan",
+    "link": "/wiki/Nohkan",
+    "classification": "aerophones",
+    "origin": "Iran"
+  },
+  {
+    "name": "Nose flute",
+    "link": "/wiki/Nose_flute",
+    "classification": "aerophones",
+    "origin": "Polynesia, Africa, East Asia"
+  },
+  {
+    "name": "Nplooj",
+    "link": "/w/index.php?title=Nplooj&action=edit&redlink=1",
+    "classification": "aerophones",
+    "origin": "Hmong people (China)"
+  },
+  {
+    "name": "Nulophone",
+    "link": "/w/index.php?title=Nulophone&action=edit&redlink=1",
+    "classification": "aerophones",
+    "origin": "Khyber Pakhtunkhwa (Pakistan)"
+  },
+  {
+    "name": "Oboes",
+    "link": "/wiki/Oboe",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Bass/Baritone oboe",
+    "link": "/wiki/Bass_oboe",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Contrabass oboe",
+    "link": "/wiki/Contrabass_oboe",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Cor anglais/English horn",
+    "link": "/wiki/Cor_anglais",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Oboe d'amore",
+    "link": "/wiki/Oboe_d%27amore",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Oboe da caccia",
+    "link": "/wiki/Oboe_da_caccia",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Piccolo oboe",
+    "link": "/wiki/Piccolo_oboe",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Ocarina",
+    "link": "/wiki/Ocarina",
+    "classification": "aerophones",
+    "origin": "Italy"
+  },
+  {
+    "name": "Octavin",
+    "link": "/wiki/Octavin",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Ophicleide",
+    "link": "/wiki/Ophicleide",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Paixiao",
+    "link": "/wiki/Paixiao",
+    "classification": "aerophones",
+    "origin": "China"
+  },
+  {
+    "name": "Palendag",
+    "link": "/wiki/Palendag",
+    "classification": "aerophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Pan flute",
+    "link": "/wiki/Pan_flute",
+    "classification": "aerophones",
+    "origin": "South America"
+  },
+  {
+    "name": "Pavari",
+    "link": "/w/index.php?title=Pavari&action=edit&redlink=1",
+    "classification": "aerophones",
+    "origin": "India"
+  },
+  {
+    "name": "Pibgorn",
+    "link": "/wiki/Pibgorn_(instrument)",
+    "classification": "aerophones",
+    "origin": "Wales"
+  },
+  {
+    "name": "Picco pipe",
+    "link": "/wiki/Picco_pipe",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Piccolo",
+    "link": "/wiki/Piccolo",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Piccolo trumpet",
+    "link": "/wiki/Piccolo_trumpet",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Pipe organ",
+    "link": "/wiki/Pipe_organ",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Pipe organ",
+    "link": "/wiki/Pipe_organ",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "flue pipes",
+    "link": "/wiki/Flue_pipe",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Pipe organ",
+    "link": "/wiki/Pipe_organ",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Pipe organ",
+    "link": "/wiki/Pipe_organ",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Pitch pipe",
+    "link": "/wiki/Pitch_pipe",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Pocket trumpet",
+    "link": "/wiki/Pocket_trumpet",
+    "classification": "aerophones",
+    "origin": "United States of America"
+  },
+  {
+    "name": "Post horn",
+    "link": "/wiki/Post_horn",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Pulalu",
+    "link": "/wiki/Pulalu",
+    "classification": "aerophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Qeej",
+    "link": "/wiki/Qeej",
+    "classification": "aerophones",
+    "origin": "Hmong people (China)"
+  },
+  {
+    "name": "Quena",
+    "link": "/wiki/Quena",
+    "classification": "aerophones",
+    "origin": "South America"
+  },
+  {
+    "name": "Quinticlave",
+    "link": "/wiki/Quinticlave",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Raj",
+    "link": "/wiki/Hmong_music#Raj",
+    "classification": "aerophones",
+    "origin": "Hmong people (China)"
+  },
+  {
+    "name": "Rackett",
+    "link": "/wiki/Rackett",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Ralé-poussé",
+    "link": "/wiki/Ral%C3%A9-pouss%C3%A9",
+    "classification": "aerophones",
+    "origin": "Réunion"
+  },
+  {
+    "name": "Rapping",
+    "link": "/wiki/Rapping",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Rauschpfeife",
+    "link": "/wiki/Rauschpfeife",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Recorder",
+    "link": "/wiki/Recorder_(musical_instrument)",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Venova",
+    "link": "/wiki/Venova",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Reed contrabass",
+    "link": "/wiki/Reed_contrabass",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Reed organ",
+    "link": "/wiki/Reed_organ",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Rhaita",
+    "link": "/wiki/Rhaita",
+    "classification": "aerophones",
+    "origin": "Northern Africa"
+  },
+  {
+    "name": "Robero",
+    "link": "/w/index.php?title=Robero&action=edit&redlink=1",
+    "classification": "aerophones",
+    "origin": "Spain"
+  },
+  {
+    "name": "Roman tuba",
+    "link": "/wiki/Roman_tuba",
+    "classification": "aerophones",
+    "origin": "Etruscan"
+  },
+  {
+    "name": "Ryuteki",
+    "link": "/wiki/Ryuteki",
+    "classification": "aerophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Sac de gemecs",
+    "link": "/wiki/Sac_de_gemecs",
+    "classification": "aerophones",
+    "origin": "Andorra, Catalonia"
+  },
+  {
+    "name": "Sackbut",
+    "link": "/wiki/Sackbut",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Saenghwang",
+    "link": "/wiki/Saenghwang",
+    "classification": "aerophones",
+    "origin": "Korea"
+  },
+  {
+    "name": "Saratovskaya garmonika",
+    "link": "/wiki/Saratovskaya_garmonika",
+    "classification": "aerophones",
+    "origin": "Russia"
+  },
+  {
+    "name": "Sarrusophones",
+    "link": "/wiki/Sarrusophone",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Alto sarrusophone",
+    "link": "/wiki/Alto_sarrusophone",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Baritone sarrusophone",
+    "link": "/wiki/Baritone_sarrusophone",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Bass sarrusophone",
+    "link": "/wiki/Bass_sarrusophone",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Contrabass sarrusophone",
+    "link": "/wiki/Contrabass_sarrusophone",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Sopranino sarrusophone",
+    "link": "/w/index.php?title=Sopranino_sarrusophone&action=edit&redlink=1",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Soprano sarrusophone",
+    "link": "/wiki/Soprano_sarrusophone",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Tenor sarrusophone",
+    "link": "/wiki/Tenor_sarrusophone",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Saxophones",
+    "link": "/wiki/Saxophone",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Alto saxophone",
+    "link": "/wiki/Alto_saxophone",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Baritone saxophone",
+    "link": "/wiki/Baritone_saxophone",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Bass saxophone",
+    "link": "/wiki/Bass_saxophone",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "C melody saxophone",
+    "link": "/wiki/C_melody_saxophone",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "C Soprano saxophone",
+    "link": "/wiki/C_Soprano_saxophone",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Contrabass saxophone",
+    "link": "/wiki/Contrabass_saxophone",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Mezzo-soprano saxophone",
+    "link": "/wiki/Mezzo-soprano_saxophone",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Sopranino saxophone",
+    "link": "/wiki/Sopranino_saxophone",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Soprano saxophone",
+    "link": "/wiki/Soprano_saxophone",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Soprillo",
+    "link": "/wiki/Soprillo",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Subcontrabass saxophone",
+    "link": "/wiki/Subcontrabass_saxophone",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Tenor saxophone",
+    "link": "/wiki/Tenor_saxophone",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Tubax",
+    "link": "/wiki/Tubax",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Venova",
+    "link": "/wiki/Venova",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Xaphoon",
+    "link": "/wiki/Xaphoon",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Saxhorn",
+    "link": "/wiki/Saxhorn",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Saxotromba",
+    "link": "/wiki/Saxotromba",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Saxtuba",
+    "link": "/wiki/Saxtuba",
+    "classification": "aerophones",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Scat singing",
+    "link": "/wiki/Scat_singing",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Schwyzerörgeli",
+    "link": "/wiki/Schwyzer%C3%B6rgeli",
+    "classification": "aerophones",
+    "origin": "Switzerland"
+  },
+  {
+    "name": "Serpent",
+    "link": "/wiki/Serpent_(instrument)",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Shakuhachi",
+    "link": "/wiki/Shakuhachi",
+    "classification": "aerophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Shankha",
+    "link": "/wiki/Shankha",
+    "classification": "aerophones",
+    "origin": "India"
+  },
+  {
+    "name": "Shawm",
+    "link": "/wiki/Shawm",
+    "classification": "aerophones",
+    "origin": "Switzerland"
+  },
+  {
+    "name": "Shehnai",
+    "link": "/wiki/Shehnai",
+    "classification": "aerophones",
+    "origin": "North India"
+  },
+  {
+    "name": "Sheng",
+    "link": "/wiki/Sheng_(instrument)",
+    "classification": "aerophones",
+    "origin": "China"
+  },
+  {
+    "name": "Shinobue",
+    "link": "/wiki/Shinobue",
+    "classification": "aerophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Shofar",
+    "link": "/wiki/Shofar",
+    "classification": "aerophones",
+    "origin": "Levant"
+  },
+  {
+    "name": "Shō",
+    "link": "/wiki/Sh%C5%8D_(instrument)",
+    "classification": "aerophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Shvi",
+    "link": "/wiki/Shvi",
+    "classification": "aerophones",
+    "origin": "Armenia"
+  },
+  {
+    "name": "Siku",
+    "link": "/wiki/Siku_(panpipe)",
+    "classification": "aerophones",
+    "origin": "Bolivia"
+  },
+  {
+    "name": "Siren",
+    "link": "/wiki/Siren_(noisemaker)",
+    "classification": "aerophones",
+    "origin": "Scotland"
+  },
+  {
+    "name": "Slide trumpet",
+    "link": "/wiki/Slide_trumpet",
+    "classification": "aerophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Slide whistle",
+    "link": "/wiki/Slide_whistle",
+    "classification": "aerophones",
+    "origin": "England"
+  },
+  {
+    "name": "Sneng",
+    "link": "/wiki/Sneng",
+    "classification": "aerophones",
+    "origin": "Cambodia"
+  },
+  {
+    "name": "Sodina",
+    "link": "/wiki/Sodina",
+    "classification": "aerophones",
+    "origin": "Madagascar"
+  },
+  {
+    "name": "Sopila",
+    "link": "/wiki/Sopila",
+    "classification": "aerophones",
+    "origin": "Croatia"
+  },
+  {
+    "name": "Soprano",
+    "link": "/wiki/Soprano",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Sorna",
+    "link": "/wiki/Sorna",
+    "classification": "aerophones",
+    "origin": "Iran"
+  },
+  {
+    "name": "Sousaphone",
+    "link": "/wiki/Sousaphone",
+    "classification": "aerophones",
+    "origin": "US"
+  },
+  {
+    "name": "Sralai",
+    "link": "/wiki/Sralai",
+    "classification": "aerophones",
+    "origin": "Cambodia"
+  },
+  {
+    "name": "Sudrophone",
+    "link": "/wiki/Sudrophone",
+    "classification": "aerophones",
+    "origin": "France"
+  },
+  {
+    "name": "Suling",
+    "link": "/wiki/Suling",
+    "classification": "aerophones",
+    "origin": "Indonesia/Philippines"
+  },
+  {
+    "name": "Suona",
+    "link": "/wiki/Suona",
+    "classification": "aerophones",
+    "origin": "China"
+  },
+  {
+    "name": "Superbone",
+    "link": "/wiki/Superbone",
+    "classification": "aerophones",
+    "origin": "Canada"
+  },
+  {
+    "name": "Tabor pipe",
+    "link": "/wiki/Tabor_pipe",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Taepyeongso",
+    "link": "/wiki/Taepyeongso",
+    "classification": "aerophones",
+    "origin": "Korea"
+  },
+  {
+    "name": "Tarogato",
+    "link": "/wiki/Tarogato",
+    "classification": "aerophones",
+    "origin": "Central Europe"
+  },
+  {
+    "name": "Tenor",
+    "link": "/wiki/Tenor",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Tenora",
+    "link": "/wiki/Tenora",
+    "classification": "aerophones",
+    "origin": "Spain"
+  },
+  {
+    "name": "Throat singing",
+    "link": "/wiki/Overtone_singing",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Tible",
+    "link": "/wiki/Tible",
+    "classification": "aerophones",
+    "origin": "Spain"
+  },
+  {
+    "name": "Tin whistle",
+    "link": "/wiki/Tin_whistle",
+    "classification": "aerophones",
+    "origin": "Celtic"
+  },
+  {
+    "name": "Toasting",
+    "link": "/wiki/Deejay_(Jamaican)",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Tonette",
+    "link": "/wiki/Tonette",
+    "classification": "aerophones",
+    "origin": "North America"
+  },
+  {
+    "name": "Trikiti",
+    "link": "/wiki/Trikiti",
+    "classification": "aerophones",
+    "origin": "Spain"
+  },
+  {
+    "name": "Trombones",
+    "link": "/wiki/Trombone",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Bass trombone",
+    "link": "/wiki/Bass_trombone",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Tromboon",
+    "link": "/wiki/P._D._Q._Bach#Tromboon",
+    "classification": "aerophones",
+    "origin": "US"
+  },
+  {
+    "name": "Trompeta china",
+    "link": "/wiki/Trompeta_china",
+    "classification": "aerophones",
+    "origin": "Cuba"
+  },
+  {
+    "name": "Trumpets",
+    "link": "/wiki/Trumpet",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Baroque trumpet",
+    "link": "/wiki/Baroque_trumpet",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Bass trumpet",
+    "link": "/wiki/Bass_trumpet",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Tuba",
+    "link": "/wiki/Tuba",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Subcontrabass tuba",
+    "link": "/wiki/Subcontrabass_tuba",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Tube trumpet",
+    "link": "/wiki/Tube_trumpet",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Tumpong",
+    "link": "/wiki/Tumpong",
+    "classification": "aerophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Tungso",
+    "link": "/wiki/Tungso",
+    "classification": "aerophones",
+    "origin": "Korea"
+  },
+  {
+    "name": "Txistu",
+    "link": "/wiki/Txistu",
+    "classification": "aerophones",
+    "origin": "Spain"
+  },
+  {
+    "name": "Uilleann pipes",
+    "link": "/wiki/Uilleann_pipes",
+    "classification": "aerophones",
+    "origin": "Ireland"
+  },
+  {
+    "name": "Venu",
+    "link": "/wiki/Venu",
+    "classification": "aerophones",
+    "origin": "South India"
+  },
+  {
+    "name": "Vibrandoneon (instrument)",
+    "link": "/w/index.php?title=Vibrandoneon_(instrument)&action=edit&redlink=1",
+    "classification": "aerophones",
+    "origin": "Italy"
+  },
+  {
+    "name": "Vienna horn",
+    "link": "/wiki/Vienna_horn",
+    "classification": "aerophones",
+    "origin": "Austria"
+  },
+  {
+    "name": "Vocal percussion",
+    "link": "/wiki/Vocal_percussion",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Vuvuzela",
+    "link": "/wiki/Vuvuzela",
+    "classification": "aerophones",
+    "origin": "South-Africa"
+  },
+  {
+    "name": "Wagner tuba",
+    "link": "/wiki/Wagner_tuba",
+    "classification": "aerophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Washint",
+    "link": "/wiki/Washint",
+    "classification": "aerophones",
+    "origin": "Ethiopia"
+  },
+  {
+    "name": "Western concert flutes",
+    "link": "/wiki/Western_concert_flute",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Alto flute",
+    "link": "/wiki/Alto_flute",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Bass flute",
+    "link": "/wiki/Bass_flute",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Contra-alto flute",
+    "link": "/wiki/Contra-alto_flute",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Contrabass flute",
+    "link": "/wiki/Contrabass_flute",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Subcontrabass flute",
+    "link": "/wiki/Subcontrabass_flute",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Double contrabass flute",
+    "link": "/wiki/Double_contrabass_flute",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Hyperbass flute",
+    "link": "/wiki/Hyperbass_flute",
+    "classification": "aerophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Whip",
+    "link": "/wiki/Whip_(percussion)",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Whistle",
+    "link": "/wiki/Whistle",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Steam whistle",
+    "link": "/wiki/Steam_whistle",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Train whistle",
+    "link": "/wiki/Train_whistle",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Willow flute",
+    "link": "/wiki/Willow_flute",
+    "classification": "aerophones",
+    "origin": "Scandinavia"
+  },
+  {
+    "name": "Xeremia",
+    "link": "/wiki/Xeremia",
+    "classification": "aerophones",
+    "origin": "Balearic Islands"
+  },
+  {
+    "name": "Xiao",
+    "link": "/wiki/Xiao_(flute)",
+    "classification": "aerophones",
+    "origin": "China"
+  },
+  {
+    "name": "Xun",
+    "link": "/wiki/Xun_(instrument)",
+    "classification": "aerophones",
+    "origin": "China"
+  },
+  {
+    "name": "Yodel",
+    "link": "/wiki/Yodel",
+    "classification": "aerophones",
+    "origin": ""
+  },
+  {
+    "name": "Yu",
+    "link": "/wiki/Yu_(wind_instrument)",
+    "classification": "aerophones",
+    "origin": "China"
+  },
+  {
+    "name": "Zhaleika",
+    "link": "/wiki/Zhaleika",
+    "classification": "aerophones",
+    "origin": "Russia"
+  },
+  {
+    "name": "Zufolo",
+    "link": "/wiki/Zufolo",
+    "classification": "aerophones",
+    "origin": "Italy"
+  },
+  {
+    "name": "Zurna",
+    "link": "/wiki/Zurna",
+    "classification": "aerophones",
+    "origin": "Turkey"
+  },
+  {
+    "name": "Adungu",
+    "link": "/wiki/Adungu",
+    "classification": "chordophones",
+    "origin": "Uganda"
+  },
+  {
+    "name": "Aeolian harp",
+    "link": "/wiki/Aeolian_harp",
+    "classification": "chordophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Ajaeng",
+    "link": "/wiki/Ajaeng",
+    "classification": "chordophones",
+    "origin": "Korea"
+  },
+  {
+    "name": "Akkordolia",
+    "link": "/wiki/Akkordolia",
+    "classification": "chordophones",
+    "origin": "Austria, Germany"
+  },
+  {
+    "name": "Algerian mandole",
+    "link": "/wiki/Algerian_mandole",
+    "classification": "chordophones",
+    "origin": "Algeria, Berbers, Saudi Arabia, Tunisia"
+  },
+  {
+    "name": "Angélique",
+    "link": "/wiki/Ang%C3%A9lique_(instrument)",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Appalachian dulcimer",
+    "link": "/wiki/Appalachian_dulcimer",
+    "classification": "chordophones",
+    "origin": "Germany, United States"
+  },
+  {
+    "name": "Archlute",
+    "link": "/wiki/Archlute",
+    "classification": "chordophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Arpeggione",
+    "link": "/wiki/Arpeggione",
+    "classification": "chordophones",
+    "origin": "Austria"
+  },
+  {
+    "name": "Autoharp",
+    "link": "/wiki/Autoharp",
+    "classification": "chordophones",
+    "origin": "US"
+  },
+  {
+    "name": "Bağlama",
+    "link": "/wiki/Ba%C4%9Flama",
+    "classification": "chordophones",
+    "origin": "Armenia, Azerbaijan, Bosnia and Herzegovina, Kurdistan, Macedonia, Turkmenistan"
+  },
+  {
+    "name": "Bajo sexto",
+    "link": "/wiki/Bajo_sexto",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Balalaika",
+    "link": "/wiki/Balalaika",
+    "classification": "chordophones",
+    "origin": "Russia"
+  },
+  {
+    "name": "Bandola",
+    "link": "/wiki/Bandola",
+    "classification": "chordophones",
+    "origin": "Colombia, Venezuela"
+  },
+  {
+    "name": "Bandolin",
+    "link": "/wiki/Bandolin",
+    "classification": "chordophones",
+    "origin": "Ecuador"
+  },
+  {
+    "name": "Bandolón",
+    "link": "/wiki/Bandol%C3%B3n",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Bandura",
+    "link": "/wiki/Bandura",
+    "classification": "chordophones",
+    "origin": "Ukraine"
+  },
+  {
+    "name": "Bandora",
+    "link": "/wiki/Bandora_(instrument)",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Bandurria",
+    "link": "/wiki/Bandurria",
+    "classification": "chordophones",
+    "origin": "Aragon, Philippines, Spain"
+  },
+  {
+    "name": "Banhu",
+    "link": "/wiki/Banhu",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Banjo",
+    "link": "/wiki/Banjo",
+    "classification": "chordophones",
+    "origin": "North America"
+  },
+  {
+    "name": "Bass banjo",
+    "link": "/wiki/Bass_banjo",
+    "classification": "chordophones",
+    "origin": "North America"
+  },
+  {
+    "name": "Banjo ukulele",
+    "link": "/wiki/Banjo_uke",
+    "classification": "chordophones",
+    "origin": "US"
+  },
+  {
+    "name": "Barbat",
+    "link": "/wiki/Barbat_(lute)",
+    "classification": "chordophones",
+    "origin": "Armenia, Iran"
+  },
+  {
+    "name": "Baryton",
+    "link": "/wiki/Baryton",
+    "classification": "chordophones",
+    "origin": "England"
+  },
+  {
+    "name": "Berimbau",
+    "link": "/wiki/Berimbau",
+    "classification": "chordophones",
+    "origin": "Brazil"
+  },
+  {
+    "name": "Bipa",
+    "link": "/wiki/Bipa",
+    "classification": "chordophones",
+    "origin": "Korea"
+  },
+  {
+    "name": "Biwa",
+    "link": "/wiki/Biwa",
+    "classification": "chordophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Bordonua",
+    "link": "/wiki/Bordonua",
+    "classification": "chordophones",
+    "origin": "Puerto Rico"
+  },
+  {
+    "name": "Bouzouki",
+    "link": "/wiki/Bouzouki",
+    "classification": "chordophones",
+    "origin": "Greece"
+  },
+  {
+    "name": "Buzuq",
+    "link": "/wiki/Buzuq",
+    "classification": "chordophones",
+    "origin": "Saudi Arabia"
+  },
+  {
+    "name": "Carimba",
+    "link": "/wiki/Carimba",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Cavaquinho",
+    "link": "/wiki/Cavaquinho",
+    "classification": "chordophones",
+    "origin": "Portugal"
+  },
+  {
+    "name": "Cello",
+    "link": "/wiki/Cello",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Cello da spalla",
+    "link": "/wiki/Cello_da_spalla",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Electric cello",
+    "link": "/wiki/Electric_cello",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Chapman stick",
+    "link": "/wiki/Chapman_stick",
+    "classification": "chordophones",
+    "origin": "US"
+  },
+  {
+    "name": "Charangos",
+    "link": "/wiki/Charango",
+    "classification": "chordophones",
+    "origin": "Argentina, Bolivia, Chile, Peru,"
+  },
+  {
+    "name": "Charango",
+    "link": "/wiki/Charango",
+    "classification": "chordophones",
+    "origin": "Argentina, Bolivia, Chile, Peru,"
+  },
+  {
+    "name": "Charangón",
+    "link": "/wiki/Charango",
+    "classification": "chordophones",
+    "origin": "Argentina, Bolivia, Chile, Peru,"
+  },
+  {
+    "name": "Hualaycho",
+    "link": "/wiki/Hualaycho",
+    "classification": "chordophones",
+    "origin": "Argentina, Bolivia, Chile, Peru,"
+  },
+  {
+    "name": "Ronroco",
+    "link": "/wiki/Ronroco",
+    "classification": "chordophones",
+    "origin": "Argentina, Bolivia, Chile, Peru,"
+  },
+  {
+    "name": "Chillador",
+    "link": "/wiki/Chillador",
+    "classification": "chordophones",
+    "origin": "Argentina, Bolivia, Chile, Peru,"
+  },
+  {
+    "name": "Chitarra battente",
+    "link": "/wiki/Chitarra_battente",
+    "classification": "chordophones",
+    "origin": "Italy"
+  },
+  {
+    "name": "Chitarra Italiana",
+    "link": "/wiki/Chitarra_Italiana",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Choghur",
+    "link": "/wiki/Choghur",
+    "classification": "chordophones",
+    "origin": "Azerbaijan"
+  },
+  {
+    "name": "Cimbalom",
+    "link": "/wiki/Cimbalom",
+    "classification": "chordophones",
+    "origin": "Hungary"
+  },
+  {
+    "name": "Electric cymbalum",
+    "link": "/wiki/Yuri_Landman",
+    "classification": "chordophones",
+    "origin": "Hungary"
+  },
+  {
+    "name": "Cimboa",
+    "link": "/wiki/Cimboa",
+    "classification": "chordophones",
+    "origin": "Cape Verde"
+  },
+  {
+    "name": "Citole",
+    "link": "/wiki/Citole",
+    "classification": "chordophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Cittern",
+    "link": "/wiki/Cittern",
+    "classification": "chordophones",
+    "origin": "England, Scotland, Switzerland"
+  },
+  {
+    "name": "Clavichord",
+    "link": "/wiki/Clavichord",
+    "classification": "chordophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Clavinet",
+    "link": "/wiki/Clavinet",
+    "classification": "chordophones",
+    "origin": "USA"
+  },
+  {
+    "name": "Contraguitar",
+    "link": "/wiki/Contraguitar",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Crwth",
+    "link": "/wiki/Crwth",
+    "classification": "chordophones",
+    "origin": "Wales"
+  },
+  {
+    "name": "Cuatro",
+    "link": "/wiki/Cuatro_(instrument)",
+    "classification": "chordophones",
+    "origin": "Latin America"
+  },
+  {
+    "name": "Cümbüş",
+    "link": "/wiki/C%C3%BCmb%C3%BC%C5%9F",
+    "classification": "chordophones",
+    "origin": "Turkey"
+  },
+  {
+    "name": "Đàn bầu",
+    "link": "/wiki/%C4%90%C3%A0n_b%E1%BA%A7u",
+    "classification": "chordophones",
+    "origin": "Vietnam"
+  },
+  {
+    "name": "Đàn đáy",
+    "link": "/wiki/%C4%90%C3%A0n_%C4%91%C3%A1y",
+    "classification": "chordophones",
+    "origin": "Vietnam"
+  },
+  {
+    "name": "Đàn gáo",
+    "link": "/wiki/%C4%90%C3%A0n_g%C3%A1o",
+    "classification": "chordophones",
+    "origin": "Vietnam"
+  },
+  {
+    "name": "Đàn nguyệt",
+    "link": "/wiki/%C4%90%C3%A0n_nguy%E1%BB%87t",
+    "classification": "chordophones",
+    "origin": "Vietnam"
+  },
+  {
+    "name": "Đàn tam thập lục",
+    "link": "/wiki/%C4%90%C3%A0n_tam_th%E1%BA%ADp_l%E1%BB%A5c",
+    "classification": "chordophones",
+    "origin": "Vietnam"
+  },
+  {
+    "name": "Đàn tranh",
+    "link": "/wiki/%C4%90%C3%A0n_tranh",
+    "classification": "chordophones",
+    "origin": "Vietnam"
+  },
+  {
+    "name": "Đàn tỳ bà",
+    "link": "/wiki/%C4%90%C3%A0n_t%E1%BB%B3_b%C3%A0",
+    "classification": "chordophones",
+    "origin": "Vietnam"
+  },
+  {
+    "name": "Diddley bow",
+    "link": "/wiki/Diddley_bow",
+    "classification": "chordophones",
+    "origin": "US"
+  },
+  {
+    "name": "Dihu",
+    "link": "/wiki/Dihu",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Dombra",
+    "link": "/wiki/Dombra",
+    "classification": "chordophones",
+    "origin": "Azerbaijan, Bashkortostan, Kazakhstan, Kyrgyzstan, Russia, Tatarstan, Uzbekistan"
+  },
+  {
+    "name": "Domra",
+    "link": "/wiki/Domra",
+    "classification": "chordophones",
+    "origin": "Russia"
+  },
+  {
+    "name": "Doshpuluur",
+    "link": "/wiki/Doshpuluur",
+    "classification": "chordophones",
+    "origin": "Tuva"
+  },
+  {
+    "name": "Dotara",
+    "link": "/wiki/Dotara",
+    "classification": "chordophones",
+    "origin": "Bangladesh"
+  },
+  {
+    "name": "Double bass",
+    "link": "/wiki/Double_bass",
+    "classification": "chordophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Dreadnought",
+    "link": "/wiki/Dreadnought_(guitar_type)",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Dulcimer",
+    "link": "/wiki/Dulcimer",
+    "classification": "chordophones",
+    "origin": "England"
+  },
+  {
+    "name": "Dutar",
+    "link": "/wiki/Dutar",
+    "classification": "chordophones",
+    "origin": "Azerbaijan, Iran, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan"
+  },
+  {
+    "name": "Duxianqin",
+    "link": "/wiki/Duxianqin",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Ektara",
+    "link": "/wiki/Ektara",
+    "classification": "chordophones",
+    "origin": "India, Pakistan"
+  },
+  {
+    "name": "Erhu",
+    "link": "/wiki/Erhu",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Erxian",
+    "link": "/wiki/Erxian",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Esraj",
+    "link": "/wiki/Esraj",
+    "classification": "chordophones",
+    "origin": "India"
+  },
+  {
+    "name": "Faglong",
+    "link": "/wiki/Faglong",
+    "classification": "chordophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Fuglung",
+    "link": "/wiki/Fuglung",
+    "classification": "chordophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Fegereng",
+    "link": "/wiki/Fegereng",
+    "classification": "chordophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Fiddle",
+    "link": "/wiki/Fiddle",
+    "classification": "chordophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Gaohu",
+    "link": "/wiki/Gaohu",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Gayageum",
+    "link": "/wiki/Gayageum",
+    "classification": "chordophones",
+    "origin": "Korea"
+  },
+  {
+    "name": "Geomungo",
+    "link": "/wiki/Geomungo",
+    "classification": "chordophones",
+    "origin": "Korea"
+  },
+  {
+    "name": "Gittern",
+    "link": "/wiki/Gittern",
+    "classification": "chordophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Gottuvadhyam",
+    "link": "/wiki/Gottuvadhyam",
+    "classification": "chordophones",
+    "origin": "India"
+  },
+  {
+    "name": "Guitars",
+    "link": "/wiki/Guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Acoustic guitar",
+    "link": "/wiki/Acoustic_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Acoustic bass guitar",
+    "link": "/wiki/Acoustic_bass_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Acoustic-electric guitar",
+    "link": "/wiki/Acoustic-electric_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Archtop guitar",
+    "link": "/wiki/Archtop_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Baritone guitar",
+    "link": "/wiki/Baritone_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Baroque guitar",
+    "link": "/wiki/Baroque_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Bass guitar",
+    "link": "/wiki/Bass_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Bahian guitar",
+    "link": "/wiki/Bahian_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Brahms guitar",
+    "link": "/wiki/Brahms_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Chitarra battente",
+    "link": "/wiki/Chitarra_battente",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Cigar box guitar",
+    "link": "/wiki/Cigar_box_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Classical guitar",
+    "link": "/wiki/Classical_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Console steel guitar",
+    "link": "/wiki/Console_steel_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Electric guitar",
+    "link": "/wiki/Electric_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "English guitar",
+    "link": "/wiki/English_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Fretless guitar",
+    "link": "/wiki/Fretless_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Lyre-guitar",
+    "link": "/wiki/Lyre-guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Extended-range guitars",
+    "link": "/wiki/Extended-range_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Seven-string guitar",
+    "link": "/wiki/Seven-string_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Eight-string guitar",
+    "link": "/wiki/Eight-string_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Nine-string guitar",
+    "link": "/wiki/Nine-string_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Ten-string guitar",
+    "link": "/wiki/Ten-string_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Eleven-string alto guitar",
+    "link": "/wiki/Eleven-string_alto_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Twelve-string guitar",
+    "link": "/wiki/Twelve-string_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Flamenco guitar",
+    "link": "/wiki/Flamenco_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Fusetar",
+    "link": "/w/index.php?title=Fusetar&action=edit&redlink=1",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Guitarra quinta huapanguera",
+    "link": "/wiki/Guitarra_quinta_huapanguera",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Guitar synthesizer",
+    "link": "/wiki/Guitar_synthesizer",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Guitarrón",
+    "link": "/wiki/Guitarr%C3%B3n_chileno",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Guitarrón",
+    "link": "/wiki/Guitarr%C3%B3n_mexicano",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Lap steel guitars",
+    "link": "/wiki/Lap_steel_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Dobro",
+    "link": "/wiki/Dobro",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "National Steel",
+    "link": "/wiki/National_String_Instrument_Corporation",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Multi-neck guitar",
+    "link": "/wiki/Multi-neck_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Parlor guitar",
+    "link": "/wiki/Parlor_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Pedal steel guitar",
+    "link": "/wiki/Pedal_steel_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Romantic guitar",
+    "link": "/wiki/Romantic_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Russian guitar",
+    "link": "/wiki/Russian_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Selmer guitar",
+    "link": "/wiki/Selmer_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Semi-acoustic guitar",
+    "link": "/wiki/Semi-acoustic_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Slide guitar",
+    "link": "/wiki/Slide_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Silent guitar",
+    "link": "/wiki/Silent_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Steel guitar",
+    "link": "/wiki/Steel_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Steel-string acoustic guitar",
+    "link": "/wiki/Steel-string_acoustic_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Tenor guitar",
+    "link": "/wiki/Tenor_guitar",
+    "classification": "chordophones",
+    "origin": "Spain, et al"
+  },
+  {
+    "name": "Guitarra de golpe",
+    "link": "/wiki/Guitarra_de_golpe",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Guitarra panzona",
+    "link": "/wiki/Guitarra_panzona",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Guitarra séptima",
+    "link": "/wiki/Guitarra_s%C3%A9ptima",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Guitarro",
+    "link": "/wiki/Guitarro_(instrument)",
+    "classification": "chordophones",
+    "origin": "Andalusia, Aragon, Spain"
+  },
+  {
+    "name": "Gusli",
+    "link": "/wiki/Gusli",
+    "classification": "chordophones",
+    "origin": "Russia"
+  },
+  {
+    "name": "Guqin",
+    "link": "/wiki/Guqin",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Guzheng",
+    "link": "/wiki/Guzheng",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Haegeum",
+    "link": "/wiki/Haegeum",
+    "classification": "chordophones",
+    "origin": "Korea"
+  },
+  {
+    "name": "Hammered dulcimer",
+    "link": "/wiki/Hammered_dulcimer",
+    "classification": "chordophones",
+    "origin": "Austria, England, Germany, Hungary, Poland, Romania, Saudi Arabia, United States"
+  },
+  {
+    "name": "Hardanger fiddle",
+    "link": "/wiki/Hardingfele",
+    "classification": "chordophones",
+    "origin": "Norway"
+  },
+  {
+    "name": "Harmonico",
+    "link": "/w/index.php?title=Harmonico&action=edit&redlink=1",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Harp",
+    "link": "/wiki/Harp",
+    "classification": "chordophones",
+    "origin": "Worldwide"
+  },
+  {
+    "name": "Electric harp",
+    "link": "/wiki/Electric_harp",
+    "classification": "chordophones",
+    "origin": "Worldwide"
+  },
+  {
+    "name": "Harp guitar",
+    "link": "/wiki/Harp_guitar",
+    "classification": "chordophones",
+    "origin": "France"
+  },
+  {
+    "name": "Harpsichord",
+    "link": "/wiki/Harpsichord",
+    "classification": "chordophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Hegelong",
+    "link": "/wiki/Hegelong",
+    "classification": "chordophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Huapanguera",
+    "link": "/wiki/Huapanguera",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Huluhu",
+    "link": "/wiki/Huluhu",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Huqin",
+    "link": "/wiki/Huqin",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Hurdy-gurdy",
+    "link": "/wiki/Hurdy-gurdy",
+    "classification": "chordophones",
+    "origin": "Austria, Belarus, Czech, England, France, Germany, Hungary, Ireland, Italy, Poland, Portugal, Russia, Slovakia, Spain, Switzerland, Ukraine"
+  },
+  {
+    "name": "Igil",
+    "link": "/wiki/Igil",
+    "classification": "chordophones",
+    "origin": "Tuva"
+  },
+  {
+    "name": "Irish bouzouki",
+    "link": "/wiki/Irish_bouzouki",
+    "classification": "chordophones",
+    "origin": "Greece, Ireland"
+  },
+  {
+    "name": "Janzi",
+    "link": "/wiki/Janzi_(musical_instrument)",
+    "classification": "chordophones",
+    "origin": "Uganda"
+  },
+  {
+    "name": "Jarana jarocho",
+    "link": "/w/index.php?title=Jarana_jarocho&action=edit&redlink=1",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Jarana huasteca",
+    "link": "/wiki/Jarana_huasteca",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Jarana mosquito",
+    "link": "/w/index.php?title=Jarana_mosquito&action=edit&redlink=1",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Jarana segunda",
+    "link": "/w/index.php?title=Jarana_segunda&action=edit&redlink=1",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Jarana tercera",
+    "link": "/w/index.php?title=Jarana_tercera&action=edit&redlink=1",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Jiaohu",
+    "link": "/wiki/Jiaohu",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Kabosy",
+    "link": "/wiki/Kabosy",
+    "classification": "chordophones",
+    "origin": "Madagascar"
+  },
+  {
+    "name": "Kadlong",
+    "link": "/wiki/Kadlong",
+    "classification": "chordophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Kamancha",
+    "link": "/wiki/Kamancha",
+    "classification": "chordophones",
+    "origin": "Persia"
+  },
+  {
+    "name": "Kantele",
+    "link": "/wiki/Kantele",
+    "classification": "chordophones",
+    "origin": "Finland"
+  },
+  {
+    "name": "Kemenche",
+    "link": "/wiki/Kemenche",
+    "classification": "chordophones",
+    "origin": "Turkey"
+  },
+  {
+    "name": "Khim",
+    "link": "/wiki/Khim",
+    "classification": "chordophones",
+    "origin": "Thailand/Cambodia"
+  },
+  {
+    "name": "Kobza",
+    "link": "/wiki/Kobza",
+    "classification": "chordophones",
+    "origin": "Ukraine"
+  },
+  {
+    "name": "Kokle",
+    "link": "/wiki/Kokle",
+    "classification": "chordophones",
+    "origin": "Latvia"
+  },
+  {
+    "name": "Kokyū",
+    "link": "/wiki/Koky%C5%AB",
+    "classification": "chordophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Komuz",
+    "link": "/wiki/Komuz",
+    "classification": "chordophones",
+    "origin": "Azerbaijan, Dagestan, Hungary, Khakassia, Kyrgyzstan, Turkmenistan, Uzbekistan"
+  },
+  {
+    "name": "Kora",
+    "link": "/wiki/Kora_(instrument)",
+    "classification": "chordophones",
+    "origin": "West Africa"
+  },
+  {
+    "name": "Koto",
+    "link": "/wiki/Koto_(musical_instrument)",
+    "classification": "chordophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Kubing",
+    "link": "/wiki/Kubing",
+    "classification": "chordophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Kudyapi",
+    "link": "/wiki/Kudyapi",
+    "classification": "chordophones",
+    "origin": "Philippines"
+  },
+  {
+    "name": "Kwitra",
+    "link": "/wiki/Kwitra",
+    "classification": "chordophones",
+    "origin": "Algeria, Saudi Arabia"
+  },
+  {
+    "name": "Langeleik",
+    "link": "/wiki/Langeleik",
+    "classification": "chordophones",
+    "origin": "Norway"
+  },
+  {
+    "name": "Laouto",
+    "link": "/wiki/Laouto",
+    "classification": "chordophones",
+    "origin": "Greece"
+  },
+  {
+    "name": "Laruan",
+    "link": "/wiki/Laruan",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Laúd",
+    "link": "/wiki/La%C3%BAd",
+    "classification": "chordophones",
+    "origin": "Cuba, Philippines, Spain"
+  },
+  {
+    "name": "Lavta",
+    "link": "/wiki/Lavta",
+    "classification": "chordophones",
+    "origin": "Armenia, Greece, Turkey"
+  },
+  {
+    "name": "Leiqin",
+    "link": "/wiki/Leiqin",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Leona",
+    "link": "/wiki/Leona_(instrument)",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Lirone",
+    "link": "/wiki/Lirone",
+    "classification": "chordophones",
+    "origin": "Italy"
+  },
+  {
+    "name": "Liuqin",
+    "link": "/wiki/Liuqin",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Lokanga",
+    "link": "/wiki/Lokanga_bara",
+    "classification": "chordophones",
+    "origin": "Madagascar"
+  },
+  {
+    "name": "Lute",
+    "link": "/wiki/Lute",
+    "classification": "chordophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Lute guitar",
+    "link": "/wiki/Lute_guitar",
+    "classification": "chordophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Lyra (Cretan)",
+    "link": "/wiki/Lyra_(Cretan)",
+    "classification": "chordophones",
+    "origin": "Greece"
+  },
+  {
+    "name": "Lyra (Byzantine)",
+    "link": "/wiki/Byzantine_lyra",
+    "classification": "chordophones",
+    "origin": "Byzantine Empire"
+  },
+  {
+    "name": "Lyre",
+    "link": "/wiki/Lyre",
+    "classification": "chordophones",
+    "origin": "England, Greece"
+  },
+  {
+    "name": "Maguhu",
+    "link": "/wiki/Maguhu",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Mandobass",
+    "link": "/wiki/Mandobass",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Mandola",
+    "link": "/wiki/Mandola",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Mandolin",
+    "link": "/wiki/Mandolin",
+    "classification": "chordophones",
+    "origin": "Bashkortostan, Brazil, Germany, Greece, Italy, Japan, Portugal, Ukraine, United States, Venezuela"
+  },
+  {
+    "name": "Mandolin-banjo",
+    "link": "/wiki/Mandolin-banjo",
+    "classification": "chordophones",
+    "origin": "Bashkortostan, Brazil, Germany, Greece, Italy, Japan, Portugal, Ukraine, United States, Venezuela"
+  },
+  {
+    "name": "Mandocello",
+    "link": "/wiki/Mandocello",
+    "classification": "chordophones",
+    "origin": "Bashkortostan, Brazil, Germany, Greece, Italy, Japan, Portugal, Ukraine, United States, Venezuela"
+  },
+  {
+    "name": "Mandola",
+    "link": "/wiki/Mandola",
+    "classification": "chordophones",
+    "origin": "Bashkortostan, Brazil, Germany, Greece, Italy, Japan, Portugal, Ukraine, United States, Venezuela"
+  },
+  {
+    "name": "Bluegrass mandolin",
+    "link": "/wiki/Bluegrass_mandolin",
+    "classification": "chordophones",
+    "origin": "Bashkortostan, Brazil, Germany, Greece, Italy, Japan, Portugal, Ukraine, United States, Venezuela"
+  },
+  {
+    "name": "Electric mandolin",
+    "link": "/wiki/Electric_mandolin",
+    "classification": "chordophones",
+    "origin": "Bashkortostan, Brazil, Germany, Greece, Italy, Japan, Portugal, Ukraine, United States, Venezuela"
+  },
+  {
+    "name": "Octave mandolin",
+    "link": "/wiki/Octave_mandolin",
+    "classification": "chordophones",
+    "origin": "Bashkortostan, Brazil, Germany, Greece, Italy, Japan, Portugal, Ukraine, United States, Venezuela"
+  },
+  {
+    "name": "Resonator mandolin",
+    "link": "/wiki/Resonator_mandolin",
+    "classification": "chordophones",
+    "origin": "Bashkortostan, Brazil, Germany, Greece, Italy, Japan, Portugal, Ukraine, United States, Venezuela"
+  },
+  {
+    "name": "Mandolute",
+    "link": "/wiki/Mandolute",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Mandora",
+    "link": "/wiki/Mandora",
+    "classification": "chordophones",
+    "origin": "Central Europe"
+  },
+  {
+    "name": "Mandore",
+    "link": "/wiki/Mandore_(instrument)",
+    "classification": "chordophones",
+    "origin": "France"
+  },
+  {
+    "name": "Marovany",
+    "link": "/wiki/Marovany",
+    "classification": "chordophones",
+    "origin": "Madagascar"
+  },
+  {
+    "name": "Mejoranera",
+    "link": "/wiki/Mejoranera",
+    "classification": "chordophones",
+    "origin": "Panama"
+  },
+  {
+    "name": "Mexican vihuela",
+    "link": "/wiki/Mexican_vihuela",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Mohan veena",
+    "link": "/wiki/Mohan_veena",
+    "classification": "chordophones",
+    "origin": "India"
+  },
+  {
+    "name": "Moraharpa",
+    "link": "/wiki/Moraharpa",
+    "classification": "chordophones",
+    "origin": "Sweden"
+  },
+  {
+    "name": "Morin khuur",
+    "link": "/wiki/Morin_khuur",
+    "classification": "chordophones",
+    "origin": "Mongolia, Tuva"
+  },
+  {
+    "name": "Musical bow",
+    "link": "/wiki/Musical_bow",
+    "classification": "chordophones",
+    "origin": "South Africa"
+  },
+  {
+    "name": "Nyckelharpa",
+    "link": "/wiki/Nyckelharpa",
+    "classification": "chordophones",
+    "origin": "Sweden"
+  },
+  {
+    "name": "Octobass",
+    "link": "/wiki/Octobass",
+    "classification": "chordophones",
+    "origin": "France"
+  },
+  {
+    "name": "Oud",
+    "link": "/wiki/Oud",
+    "classification": "chordophones",
+    "origin": "Armenia, Azerbaijan, Greece, Iran, Kurdistan, Saudi Arabia, Turkey"
+  },
+  {
+    "name": "Paqin",
+    "link": "/wiki/Paqin",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Piano",
+    "link": "/wiki/Piano",
+    "classification": "chordophones",
+    "origin": "Italy"
+  },
+  {
+    "name": "Electric piano",
+    "link": "/wiki/Electric_piano",
+    "classification": "chordophones",
+    "origin": "Italy"
+  },
+  {
+    "name": "Fortepiano",
+    "link": "/wiki/Fortepiano",
+    "classification": "chordophones",
+    "origin": "Italy"
+  },
+  {
+    "name": "Pipa",
+    "link": "/wiki/Pipa",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Piwancha",
+    "link": "/wiki/Piwancha",
+    "classification": "chordophones",
+    "origin": "Nepal"
+  },
+  {
+    "name": "Pochette",
+    "link": "/wiki/Pochette_(musical_instrument)",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Portuguese guitar",
+    "link": "/wiki/Portuguese_guitar",
+    "classification": "chordophones",
+    "origin": "Portugal"
+  },
+  {
+    "name": "Psaltery",
+    "link": "/wiki/Psaltery",
+    "classification": "chordophones",
+    "origin": "Greece"
+  },
+  {
+    "name": "Qanun",
+    "link": "/wiki/Qanun_(instrument)",
+    "classification": "chordophones",
+    "origin": "Armenia, Egypt, Greece, Saudi Arabia, Turkey"
+  },
+  {
+    "name": "Qinqin",
+    "link": "/wiki/Qinqin",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Rabeca",
+    "link": "/wiki/Rabeca",
+    "classification": "chordophones",
+    "origin": "Brazil"
+  },
+  {
+    "name": "Rajão",
+    "link": "/wiki/Raj%C3%A3o",
+    "classification": "chordophones",
+    "origin": "Portugal"
+  },
+  {
+    "name": "Ravanahatha",
+    "link": "/wiki/Ravanahatha",
+    "classification": "chordophones",
+    "origin": "Sri Lanka, India"
+  },
+  {
+    "name": "Rebab",
+    "link": "/wiki/Rebab",
+    "classification": "chordophones",
+    "origin": "Afghanistan"
+  },
+  {
+    "name": "Rebec",
+    "link": "/wiki/Rebec",
+    "classification": "chordophones",
+    "origin": "Italy, Switzerland"
+  },
+  {
+    "name": "Requinto jarocho",
+    "link": "/wiki/Requinto_jarocho",
+    "classification": "chordophones",
+    "origin": "Mexico"
+  },
+  {
+    "name": "Rubab",
+    "link": "/wiki/Rubab_(instrument)",
+    "classification": "chordophones",
+    "origin": "Afghanistan, Pakistan, Azerbaijan, India, Iran, Turkey, Iraq, Tajikistan, and Uzbekistan"
+  },
+  {
+    "name": "Ruan",
+    "link": "/wiki/Ruan",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Rudra vina",
+    "link": "/wiki/Rudra_vina",
+    "classification": "chordophones",
+    "origin": "India"
+  },
+  {
+    "name": "Sallameh",
+    "link": "/wiki/Sallaneh_(lute)",
+    "classification": "chordophones",
+    "origin": "Iran"
+  },
+  {
+    "name": "Sanshin",
+    "link": "/wiki/Sanshin",
+    "classification": "chordophones",
+    "origin": "Okinawa"
+  },
+  {
+    "name": "Santoor",
+    "link": "/wiki/Santoor_(Persian_instrument)",
+    "classification": "chordophones",
+    "origin": "Iran"
+  },
+  {
+    "name": "Sanxian",
+    "link": "/wiki/Sanxian",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Sarangi",
+    "link": "/wiki/Sarangi",
+    "classification": "chordophones",
+    "origin": "India"
+  },
+  {
+    "name": "Šargija",
+    "link": "/wiki/%C5%A0argija",
+    "classification": "chordophones",
+    "origin": "Albania, Bosnia and Herzegovina, Croatia, Serbia"
+  },
+  {
+    "name": "Sarod",
+    "link": "/wiki/Sarod",
+    "classification": "chordophones",
+    "origin": "India"
+  },
+  {
+    "name": "Saung",
+    "link": "/wiki/Saung",
+    "classification": "chordophones",
+    "origin": "Burma"
+  },
+  {
+    "name": "Saw sam sai",
+    "link": "/wiki/Saw_sam_sai",
+    "classification": "chordophones",
+    "origin": "Thailand"
+  },
+  {
+    "name": "Se",
+    "link": "/wiki/Se_(instrument)",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Seul",
+    "link": "https://ko.wikipedia.org/wiki/%EC%8A%AC_(%EC%95%85%EA%B8%B0)",
+    "classification": "chordophones",
+    "origin": "Korea"
+  },
+  {
+    "name": "Setar (lute)",
+    "link": "/wiki/Setar_(lute)",
+    "classification": "chordophones",
+    "origin": "Azerbaijan, Iran"
+  },
+  {
+    "name": "Shamisen",
+    "link": "/wiki/Shamisen",
+    "classification": "chordophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Sintir",
+    "link": "/wiki/Sintir",
+    "classification": "chordophones",
+    "origin": "Algeria, Morocco"
+  },
+  {
+    "name": "Sitar",
+    "link": "/wiki/Sitar",
+    "classification": "chordophones",
+    "origin": "India"
+  },
+  {
+    "name": "Sitarla",
+    "link": "/wiki/Sitarla",
+    "classification": "chordophones",
+    "origin": "Japan"
+  },
+  {
+    "name": "Surbahar",
+    "link": "/wiki/Surbahar",
+    "classification": "chordophones",
+    "origin": "India"
+  },
+  {
+    "name": "Swarmandal",
+    "link": "/wiki/Swarmandal",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Tamburica",
+    "link": "/wiki/Tamburica",
+    "classification": "chordophones",
+    "origin": "Croatia/Serbia"
+  },
+  {
+    "name": "Tanbur",
+    "link": "/wiki/Tanbur",
+    "classification": "chordophones",
+    "origin": "Iran, Kurdistan,"
+  },
+  {
+    "name": "Tanpura",
+    "link": "/wiki/Tanpura",
+    "classification": "chordophones",
+    "origin": "India"
+  },
+  {
+    "name": "Tar (lute)",
+    "link": "/wiki/Tar_(lute)",
+    "classification": "chordophones",
+    "origin": "Armenia, Azerbaijan, Iran, Kurdistan,"
+  },
+  {
+    "name": "Tea chest bass",
+    "link": "/wiki/Tea_chest_bass",
+    "classification": "chordophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Tembûr",
+    "link": "/wiki/Temb%C3%BBr",
+    "classification": "chordophones",
+    "origin": "curdo-persiano"
+  },
+  {
+    "name": "Theorbo",
+    "link": "/wiki/Theorbo",
+    "classification": "chordophones",
+    "origin": "Europe"
+  },
+  {
+    "name": "Timple",
+    "link": "/wiki/Timple",
+    "classification": "chordophones",
+    "origin": "Canary Islands"
+  },
+  {
+    "name": "Tiple",
+    "link": "/wiki/Tiple",
+    "classification": "chordophones",
+    "origin": "Colombia, Cuba, Peru, Puerto Rico, Spain"
+  },
+  {
+    "name": "Tovshuur",
+    "link": "/wiki/Tovshuur",
+    "classification": "chordophones",
+    "origin": "Altai, Khakassia, Mongolia, Tuva"
+  },
+  {
+    "name": "Tres",
+    "link": "/wiki/Tres_(musical_instrument)",
+    "classification": "chordophones",
+    "origin": "Cuba"
+  },
+  {
+    "name": "Tricordia",
+    "link": "/wiki/Tricordia",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Tro",
+    "link": "/wiki/Tro_(instrument)",
+    "classification": "chordophones",
+    "origin": "Cambodia"
+  },
+  {
+    "name": "Trumpet marine/tromba marina",
+    "link": "/wiki/Trumpet_marine",
+    "classification": "chordophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Tsymbaly",
+    "link": "/wiki/Tsymbaly",
+    "classification": "chordophones",
+    "origin": "Ukraine, Belarus"
+  },
+  {
+    "name": "Tuhu",
+    "link": "/wiki/Tuhu",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Tzouras",
+    "link": "/wiki/Tzouras",
+    "classification": "chordophones",
+    "origin": "Greece"
+  },
+  {
+    "name": "Ukulele",
+    "link": "/wiki/Ukulele",
+    "classification": "chordophones",
+    "origin": "Portugal/Hawaii"
+  },
+  {
+    "name": "Electric ukulele",
+    "link": "/wiki/Electric_ukulele",
+    "classification": "chordophones",
+    "origin": "Portugal/Hawaii"
+  },
+  {
+    "name": "Harp ukulele",
+    "link": "/wiki/Harp_ukulele",
+    "classification": "chordophones",
+    "origin": "Portugal/Hawaii"
+  },
+  {
+    "name": "Lap steel ukulele",
+    "link": "/wiki/Lap_steel_ukulele",
+    "classification": "chordophones",
+    "origin": "Portugal/Hawaii"
+  },
+  {
+    "name": "Resonator ukulele",
+    "link": "/wiki/Resonator_ukulele",
+    "classification": "chordophones",
+    "origin": "Portugal/Hawaii"
+  },
+  {
+    "name": "Tahitian ukulele",
+    "link": "/wiki/Tahitian_ukulele",
+    "classification": "chordophones",
+    "origin": "Portugal/Hawaii"
+  },
+  {
+    "name": "Ukelin",
+    "link": "/wiki/Ukelin",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Valiha",
+    "link": "/wiki/Valiha",
+    "classification": "chordophones",
+    "origin": "Madagascar"
+  },
+  {
+    "name": "Veena",
+    "link": "/wiki/Veena",
+    "classification": "chordophones",
+    "origin": "India"
+  },
+  {
+    "name": "Vertical viola",
+    "link": "/wiki/Vertical_viola",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "violin octet",
+    "link": "/wiki/Violin_octet",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Vichitra veena",
+    "link": "/wiki/Vichitra_veena",
+    "classification": "chordophones",
+    "origin": "India"
+  },
+  {
+    "name": "Vielle",
+    "link": "/wiki/Vielle",
+    "classification": "chordophones",
+    "origin": "Western Europe"
+  },
+  {
+    "name": "Vihuela",
+    "link": "/wiki/Vihuela",
+    "classification": "chordophones",
+    "origin": "Spain"
+  },
+  {
+    "name": "Viol",
+    "link": "/wiki/Viol",
+    "classification": "chordophones",
+    "origin": "Spain"
+  },
+  {
+    "name": "Pardessus de viole",
+    "link": "/wiki/Pardessus_de_viole",
+    "classification": "chordophones",
+    "origin": "Spain"
+  },
+  {
+    "name": "Division viol",
+    "link": "/wiki/Division_viol",
+    "classification": "chordophones",
+    "origin": "Spain"
+  },
+  {
+    "name": "Lyra viol",
+    "link": "/wiki/Lyra_viol",
+    "classification": "chordophones",
+    "origin": "Spain"
+  },
+  {
+    "name": "Viola da gamba",
+    "link": "/wiki/Viola_da_gamba",
+    "classification": "",
+    "origin": ""
+  },
+  {
+    "name": "Viol",
+    "link": "/wiki/Viol",
+    "classification": "",
+    "origin": ""
+  },
+  {
+    "name": "Viola amarantina",
+    "link": "/wiki/Viola_amarantina",
+    "classification": "chordophones",
+    "origin": "Portugal"
+  },
+  {
+    "name": "Viola bastarda",
+    "link": "/wiki/Viola_bastarda",
+    "classification": "chordophones",
+    "origin": "Portugal"
+  },
+  {
+    "name": "Viola beiroa",
+    "link": "/wiki/Viola_beiroa",
+    "classification": "chordophones",
+    "origin": "Portugal"
+  },
+  {
+    "name": "Viola caipira",
+    "link": "/wiki/Viola_caipira",
+    "classification": "chordophones",
+    "origin": "Brazil"
+  },
+  {
+    "name": "Viola d'amore",
+    "link": "/wiki/Viola_d%27amore",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Viola da terra",
+    "link": "/wiki/Viola_da_terra",
+    "classification": "chordophones",
+    "origin": "Portugal"
+  },
+  {
+    "name": "Viola de arame",
+    "link": "/wiki/Viola_de_arame",
+    "classification": "chordophones",
+    "origin": "Portugal"
+  },
+  {
+    "name": "Viola de cocho",
+    "link": "/wiki/Viola_de_cocho",
+    "classification": "chordophones",
+    "origin": "Brazil"
+  },
+  {
+    "name": "Viola organista",
+    "link": "/wiki/Viola_organista",
+    "classification": "chordophones",
+    "origin": "Italy (Da Vinci)"
+  },
+  {
+    "name": "Viola profonda",
+    "link": "/wiki/Viola_profonda",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Violin",
+    "link": "/wiki/Violin",
+    "classification": "chordophones",
+    "origin": "Italy and Western Europe"
+  },
+  {
+    "name": "Piccolo violino",
+    "link": "/wiki/Piccolo_violino",
+    "classification": "chordophones",
+    "origin": "Italy and Western Europe"
+  },
+  {
+    "name": "Bass violin",
+    "link": "/wiki/Bass_violin",
+    "classification": "chordophones",
+    "origin": "Italy and Western Europe"
+  },
+  {
+    "name": "Electric violin",
+    "link": "/wiki/Electric_violin",
+    "classification": "chordophones",
+    "origin": "Italy and Western Europe"
+  },
+  {
+    "name": "Five string violin",
+    "link": "/wiki/Five_string_violin",
+    "classification": "chordophones",
+    "origin": "Italy and Western Europe"
+  },
+  {
+    "name": "Stroh violin",
+    "link": "/wiki/Stroh_violin",
+    "classification": "chordophones",
+    "origin": "Italy and Western Europe"
+  },
+  {
+    "name": "Tenor violin",
+    "link": "/wiki/Tenor_violin",
+    "classification": "chordophones",
+    "origin": "Italy and Western Europe"
+  },
+  {
+    "name": "Violone",
+    "link": "/wiki/Violone",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Violotta",
+    "link": "/wiki/Violotta",
+    "classification": "chordophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Walaycho",
+    "link": "/wiki/Walaycho",
+    "classification": "chordophones",
+    "origin": ""
+  },
+  {
+    "name": "Waldzither",
+    "link": "/wiki/Waldzither",
+    "classification": "chordophones",
+    "origin": "Germany"
+  },
+  {
+    "name": "Washtub bass",
+    "link": "/wiki/Washtub_bass",
+    "classification": "chordophones",
+    "origin": "USA"
+  },
+  {
+    "name": "Whamola",
+    "link": "/wiki/Whamola",
+    "classification": "chordophones",
+    "origin": "USA"
+  },
+  {
+    "name": "Wheelharp",
+    "link": "/wiki/Wheelharp",
+    "classification": "chordophones",
+    "origin": "USA"
+  },
+  {
+    "name": "Xalam/Khalam",
+    "link": "/wiki/Xalam",
+    "classification": "chordophones",
+    "origin": "West Africa"
+  },
+  {
+    "name": "Yaylı tanbur",
+    "link": "/wiki/Yayl%C4%B1_tanbur",
+    "classification": "chordophones",
+    "origin": "Turkey"
+  },
+  {
+    "name": "Yangqin",
+    "link": "/wiki/Yangqin",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Yazheng",
+    "link": "/wiki/Yazheng",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Yehu",
+    "link": "/wiki/Yehu",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Yueqin",
+    "link": "/wiki/Yueqin",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Zhongruan",
+    "link": "/wiki/Zhongruan",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Zhonghu",
+    "link": "/wiki/Zhonghu",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Zhu (string instrument)",
+    "link": "/wiki/Zhu_(string_instrument)",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Zhengni",
+    "link": "/wiki/Zhengni",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Zhuihu",
+    "link": "/wiki/Zhuihu",
+    "classification": "chordophones",
+    "origin": "China"
+  },
+  {
+    "name": "Zither",
+    "link": "/wiki/Zither",
+    "classification": "chordophones",
+    "origin": "Belarus, Croatia, Czech, Germany, Hungary, Poland, Russia, Slovakia, Slovenia, Switzerland, Ukraine,"
+  },
+  {
+    "name": "Guitar zither",
+    "link": "/wiki/Guitar_zither",
+    "classification": "chordophones",
+    "origin": "Belarus, Croatia, Czech, Germany, Hungary, Poland, Russia, Slovakia, Slovenia, Switzerland, Ukraine,"
+  },
+  {
+    "name": "Overtone zither",
+    "link": "/wiki/Moodswinger",
+    "classification": "chordophones",
+    "origin": "Belarus, Croatia, Czech, Germany, Hungary, Poland, Russia, Slovakia, Slovenia, Switzerland, Ukraine,"
+  }
+]

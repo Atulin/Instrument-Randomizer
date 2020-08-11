@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap')
+
+\:root
+  --background: #0e0a07
+  --foreground: #e9e1d4
+  --accent: rgba(70, 255, 0, .75)
+
+*, *:before, *:after
+  box-sizing: border-box
+
+html, body
+  padding: 0
+  margin: 0
+  width: 100vw
+  height: 100%
+  overflow-x: hidden
+
+body
+  background: var(--background)
+  color: var(--foreground)
+  font-family: 'Raleway', sans-serif
+
+@import "elements/main"
+@import "elements/controls"
+@import "elements/instrument"
