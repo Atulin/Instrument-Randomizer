@@ -14,7 +14,7 @@ new Vue({
         }
     },
     mounted() {
-        axios.get('/data/instruments.json')
+        axios.get('data/instruments.json')
             .then(res => {
                 this.instruments = res.data;
                 this.randomize();
